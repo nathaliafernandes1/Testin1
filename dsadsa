@@ -1,4 +1,19 @@
-<div id="ember1393" class="margin-top-negative table-production-per-profile ember-view"><div id="ember1394" class="ember-view"><div class="models-table-wrapper models-table-wrapper">
+<section id="productionReportContent" class="section section--white section--white--border">
+    <section id="production-table">
+  <div class="wrapper wrapper--big margin-bottom">
+    <h2>
+      By Green Inventory,
+      <span class="text--smaller">
+        from
+        August 31, 2017
+        to
+        September 6, 2017
+      </span>
+    </h2>
+
+    <div class="padding-bottom only-print"></div>
+
+    <div id="ember1393" class="margin-top-negative table-production-per-profile ember-view"><div id="ember1394" class="ember-view"><div class="models-table-wrapper models-table-wrapper">
   <div class="">
 <!---->      <div class="float-right position-relative">
 <div id="ember1411" class="dropdown-menu__content position-relative ember-view"><button type="button" class="button--dropdown button--light button--dropdown
@@ -159,29 +174,34 @@
         </th>
         <th class="table__header no-wrap align-right" data-ember-action="" data-ember-action-1425="1425">
               Amount Green
-                  <svg role="img" class="svg icon icon--small" viewBox="0 0 20 20"><use xlink:href="#sort_asc"></use></svg>
+              <!---->
+    <svg role="img" class="svg icon icon--small" viewBox="0 0 20 20"><use xlink:href="#sort_desc"></use></svg>
 
-<!---->
         </th>
         <th class="table__header table-header-no-sorting no-wrap text--hidden">
               Amount (Bars)
         </th>
-<!----><!----><!----><!---->        <th class="table__header " data-ember-action="" data-ember-action-1426="1426">
+<!----><!---->        <th class="table__header " data-ember-action="" data-ember-action-1426="1426">
+              Project
+              <!---->
+<!---->
+        </th>
+<!---->        <th class="table__header " data-ember-action="" data-ember-action-1427="1427">
               Tendency to previous period
               <!---->
 <!---->
         </th>
-        <th class="table__header " data-ember-action="" data-ember-action-1427="1427">
+        <th class="table__header " data-ember-action="" data-ember-action-1428="1428">
               Location
               <!---->
 <!---->
         </th>
-        <th class="table__header align-right" data-ember-action="" data-ember-action-1428="1428">
+        <th class="table__header align-right" data-ember-action="" data-ember-action-1429="1429">
               Amount P/W
               <!---->
 <!---->
         </th>
-<!----><!---->        <th class="table__header align-right" data-ember-action="" data-ember-action-1429="1429">
+<!----><!---->        <th class="table__header align-right" data-ember-action="" data-ember-action-1430="1430">
               Current Inventory
               <!---->
 <!---->
@@ -202,7 +222,7 @@
           ">
               <div>
 
-                  <input type="text" placeholder="Filter..." id="ember1469" class="table__header__filter input--small padding-right-medium ember-view">
+                  <input type="text" placeholder="Filter..." id="ember1470" class="table__header__filter input--small padding-right-medium ember-view">
 
 <!---->
                               </div>
@@ -213,7 +233,7 @@
           ">
               <div>
 
-                  <input type="text" placeholder="Filter..." id="ember1470" class="table__header__filter input--small padding-right-medium ember-view">
+                  <input type="text" placeholder="Filter..." id="ember1471" class="table__header__filter input--small padding-right-medium ember-view">
 
 <!---->
                               </div>
@@ -230,7 +250,23 @@
           ">
               &nbsp;
       </th>
-<!----><!----><!----><!---->      <th class="table__header
+<!----><!---->      <th class="table__header
+          
+           table__header--filter
+          ">
+              <div>
+
+<div id="ember1472" class="ember-view"><div id="ember1473" class="ember-view">
+<div aria-owns="ember-basic-dropdown-content-ember1474" tabindex="-1" data-ebd-id="ember1474-trigger" role="button" id="ember1475" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1474" class="ember-power-select-multiple-options">
+<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1474" aria-controls="ember-power-select-options-ember1474" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
+</ul>
+<span class="ember-power-select-status-icon"></span></div>
+  <div id="ember-basic-dropdown-content-ember1474" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+
+</div></div>
+              </div>
+      </th>
+<!---->      <th class="table__header
           
           table-header-no-filtering table__header--filter
           ">
@@ -242,12 +278,12 @@
           ">
               <div>
 
-<div id="ember1471" class="ember-view"><div id="ember1472" class="ember-view">
-<div aria-owns="ember-basic-dropdown-content-ember1473" tabindex="-1" data-ebd-id="ember1473-trigger" role="button" id="ember1474" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1473" class="ember-power-select-multiple-options">
-<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1473" aria-controls="ember-power-select-options-ember1473" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
+<div id="ember1478" class="ember-view"><div id="ember1479" class="ember-view">
+<div aria-owns="ember-basic-dropdown-content-ember1480" tabindex="-1" data-ebd-id="ember1480-trigger" role="button" id="ember1481" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1480" class="ember-power-select-multiple-options">
+<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1480" aria-controls="ember-power-select-options-ember1480" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
 </ul>
 <span class="ember-power-select-status-icon"></span></div>
-  <div id="ember-basic-dropdown-content-ember1473" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+  <div id="ember-basic-dropdown-content-ember1480" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
 
 </div></div>
               </div>
@@ -267,777 +303,57 @@
 <!----></tr>
       </thead>
       <tbody>
-              <tr data-ember-action="" data-ember-action-1543="1543">
+              <tr data-ember-action="" data-ember-action-1485="1485">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-5c6d7e10-e24d-4605-8425-c8d8850399d3" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-5c6d7e10-e24d-4605-8425-c8d8850399d3"></label>
+  <input type="checkbox" value="" id="toggle-ee851db4-3447-46fa-a9c4-52075da5c305" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-ee851db4-3447-46fa-a9c4-52075da5c305"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/YB7OAv" id="ember1544" class="ember-view">  PG-0391
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Yellow Caturra Honey - 2017
-      </td>
-      <td class="no-wrap align-right">
-              7.5 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(3.90625% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              6.56 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.63 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1540="1540">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-0f5866e8-7cf2-44b6-a4af-22dd3febcade" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-0f5866e8-7cf2-44b6-a4af-22dd3febcade"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/E2YOQL" id="ember1541" class="ember-view">  PG-0392
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Yellow Caturra Natural - 2017
-      </td>
-      <td class="no-wrap align-right">
-              9 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(4.6875% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-90.91%</span>
-  from
-  99 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              7.88 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            -8.86 kg
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1537="1537">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-6a7eaa01-3bf7-4464-8b92-d1feefa21241" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-6a7eaa01-3bf7-4464-8b92-d1feefa21241"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/OPqDOr" id="ember1538" class="ember-view">  PG-0398
-</a>
-      </td>
-      <td>
-              El Salvador - Huatalon Natural - 2017
-      </td>
-      <td class="no-wrap align-right">
-              18 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(9.375% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              15.75 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            171 kg
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1534="1534">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-003cd28b-4286-45f0-a4f8-7a5c907c4ac7" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-003cd28b-4286-45f0-a4f8-7a5c907c4ac7"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/vWrYQA" id="ember1535" class="ember-view">  PG-0389
-</a>
-      </td>
-      <td>
-              Kenya - Gatamboya AA - Barichu F.C.S
-      </td>
-      <td class="no-wrap align-right">
-              18 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(9.375% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--equal">0%</span>
-  from
-  18 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              15.75 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            0.9 x 60kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1519="1519">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-7999402c-b86e-4507-9e24-c96f6714a833" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-7999402c-b86e-4507-9e24-c96f6714a833"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/Bea22N" id="ember1520" class="ember-view">  PG-0401
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Yellow Caturra Natural - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            0.91 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1504="1504">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-153515b6-40c7-4fb3-8634-702e77c773dc" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-153515b6-40c7-4fb3-8634-702e77c773dc"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/6MowkG" id="ember1505" class="ember-view">  PG-0374
-</a>
-      </td>
-      <td>
-              Peru - Cajamarca Nuevo Trujillo - Marcial Olivera
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
-  from
-  48 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.41 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1522="1522">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-01429dd7-7b7e-43e5-9b3d-71d01a226062" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-01429dd7-7b7e-43e5-9b3d-71d01a226062"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/wX1A3x" id="ember1523" class="ember-view">  PG-0342
-</a>
-      </td>
-      <td>
-              Colombia - Los Guacharos A - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
-  from
-  48 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.08 x 70kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1516="1516">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-8679b3df-e224-46e8-81d2-a683302baff2" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-8679b3df-e224-46e8-81d2-a683302baff2"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/Zlq7OV" id="ember1517" class="ember-view">  PG-0397
-</a>
-      </td>
-      <td>
-              El Salvador - La Avila Washed - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            4.65 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1510="1510">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-177f378a-6304-4034-ad59-529666c5a69f" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-177f378a-6304-4034-ad59-529666c5a69f"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/1Nbp8l" id="ember1511" class="ember-view">  PG-0386
-</a>
-      </td>
-      <td>
-              Decaf - Colombia - Peebies
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--equal">0%</span>
-  from
-  24 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            0.06 x 70kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1513="1513">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-e162ec15-14c0-411d-ad4a-ccebb3894238" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-e162ec15-14c0-411d-ad4a-ccebb3894238"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/QN3LxL" id="ember1514" class="ember-view">  PG-0343
-</a>
-      </td>
-      <td>
-              Colombia - Matambo A - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--equal">0%</span>
-  from
-  24 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            1.63 x 70kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1507="1507">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-a827e3c0-65e8-454e-83e1-e10384fd1c08" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-a827e3c0-65e8-454e-83e1-e10384fd1c08"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/GVz3Qw" id="ember1508" class="ember-view">  PG-0376
-</a>
-      </td>
-      <td>
-              Brazil - Guariroba - 2016
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--equal">0%</span>
-  from
-  24 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            5.15 x 59kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1531="1531">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-b7d21bf0-ea9c-4ebb-8b5a-6416553cff32" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-b7d21bf0-ea9c-4ebb-8b5a-6416553cff32"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/royDnj" id="ember1532" class="ember-view">  PG-0396
-</a>
-      </td>
-      <td>
-              El Salvador - Huatalon Honey - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            19.65 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1525="1525">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-64099209-026b-4838-aa8a-94548873f94a" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-64099209-026b-4838-aa8a-94548873f94a"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/6MD8Ed" id="ember1526" class="ember-view">  PG-0395
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Red bourbon Natural - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            19.65 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1528="1528">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-105f3162-cf48-451b-a1ab-7fb78858f1a5" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-105f3162-cf48-451b-a1ab-7fb78858f1a5"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/roKngz" id="ember1529" class="ember-view">  PG-0394
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Red bourbon Honey - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            19.65 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1501="1501">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-73556d3a-6477-4390-aee0-5514211dc00d" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-73556d3a-6477-4390-aee0-5514211dc00d"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/ndwEgj" id="ember1502" class="ember-view">  PG-0393
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Yellow Caturra Washed - 2017
-      </td>
-      <td class="no-wrap align-right">
-              27 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(14.0625% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              23.63 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.35 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1495="1495">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-b3fd1eae-d013-481b-b3c5-fb760d4bac5a" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-b3fd1eae-d013-481b-b3c5-fb760d4bac5a"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/6MBZrd" id="ember1496" class="ember-view">  PG-0365
-</a>
-      </td>
-      <td>
-              Brazil - Guariroba - 2016
-      </td>
-      <td class="no-wrap align-right">
-              48 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--increasing">+100%</span>
-  from
-  24 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              42 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.71 x 59kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1498="1498">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-6318df63-e624-4e62-8ba9-043698e16694" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-6318df63-e624-4e62-8ba9-043698e16694"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/WnYAmG" id="ember1499" class="ember-view">  PG-0379
-</a>
-      </td>
-      <td>
-              Brazil - San Coffee Yellow Bourbon PN - 2016
-      </td>
-      <td class="no-wrap align-right">
-              48 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-60%</span>
-  from
-  120 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              42 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            3.79 x 59kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1492="1492">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-1ce0df2d-2ee0-468b-a96a-82c5ac9874f7" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-1ce0df2d-2ee0-468b-a96a-82c5ac9874f7"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/XmJMYg" id="ember1493" class="ember-view">  PG-0387
-</a>
-      </td>
-      <td>
-              Ethiopia - Aricha Washed - 2017
-      </td>
-      <td class="no-wrap align-right">
-              48 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--equal">0%</span>
-  from
-  48 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              42 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            3.6 x 60kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1489="1489">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-79ad9b5b-1c15-4b1b-97c8-658532d54805" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-79ad9b5b-1c15-4b1b-97c8-658532d54805"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/6MBegE" id="ember1490" class="ember-view">  PG-0366
+            <a href="/apps/lots/yvk7vM" id="ember1488" class="ember-view">  PG-0377
 </a>
       </td>
       <td>
               Brazil - San Coffee Mundo Novo PN - 2016
       </td>
       <td class="no-wrap align-right">
-              52.8 kg
+              192 kg
 
       </td>
       <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(27.5% - 8px);" class="percentage-bar"></div>
+            <div style="left: 4px; width: calc(100% - 8px);" class="percentage-bar"></div>
       </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              -
-
+<!----><!---->      <td>
+              Opus
       </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              46.2 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            5.47 x 59kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1486="1486">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-6a4d99d3-7ee0-4dd4-ba9a-876dc59d8892" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-6a4d99d3-7ee0-4dd4-ba9a-876dc59d8892"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/06OZyA" id="ember1487" class="ember-view">  PG-0341
-</a>
-      </td>
-      <td>
-              Colombia - El Meridiano A - 2017
-      </td>
-      <td class="no-wrap align-right">
-              120 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(62.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--increasing">+150%</span>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--increasing">+33.33%</span>
   from
-  48 kg
+  144 kg
 
       </td>
       <td>
               Roastery
       </td>
       <td class="no-wrap align-right">
-              105 kg
+              168 kg
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            3.23 x 70kg Bag
+            104.45 x 59kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1483="1483">
+              <tr data-ember-action="" data-ember-action-1490="1490">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-08eb9ee4-a720-417f-a447-a650362be52d" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-08eb9ee4-a720-417f-a447-a650362be52d"></label>
+  <input type="checkbox" value="" id="toggle-41ae98f0-3b1a-4a4d-9e5d-dd9604a1e09d" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-41ae98f0-3b1a-4a4d-9e5d-dd9604a1e09d"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/dv2Vpv" id="ember1484" class="ember-view">  PG-0367
+            <a href="/apps/lots/dv2Vpv" id="ember1491" class="ember-view">  PG-0367
 </a>
       </td>
       <td>
@@ -1050,7 +366,10 @@
       <td class="position-relative width-medium">
             <div style="left: 4px; width: calc(62.5% - 8px);" class="percentage-bar"></div>
       </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
+<!----><!---->      <td>
+              Opus
+      </td>
+<!---->      <td class="no-wrap text--light">
               <span class="tendency tendency--increasing">+150%</span>
   from
   48 kg
@@ -1068,42 +387,825 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1478="1478">
+              <tr data-ember-action="" data-ember-action-1493="1493">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-c3d26877-fc0b-409c-9bef-621be3a32fcc" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-c3d26877-fc0b-409c-9bef-621be3a32fcc"></label>
+  <input type="checkbox" value="" id="toggle-7cbc8303-659f-4eb8-8fe5-d95607a89303" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-7cbc8303-659f-4eb8-8fe5-d95607a89303"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="https://c-sar.cropster.com/apps/lots/yvk7vM" id="ember1481" class="ember-view">  PG-0377
+            <a href="/apps/lots/06OZyA" id="ember1494" class="ember-view">  PG-0341
 </a>
       </td>
       <td>
-              Brazil - San Coffee Mundo Novo PN - 2016
+              Colombia - El Meridiano A - 2017
       </td>
       <td class="no-wrap align-right">
-              192 kg
+              120 kg
 
       </td>
       <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(100% - 8px);" class="percentage-bar"></div>
+            <div style="left: 4px; width: calc(62.5% - 8px);" class="percentage-bar"></div>
       </td>
-<!----><!----><!----><!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--increasing">+33.33%</span>
+<!----><!---->      <td>
+              Opus
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--increasing">+150%</span>
   from
-  144 kg
+  48 kg
 
       </td>
       <td>
               Roastery
       </td>
       <td class="no-wrap align-right">
-              168 kg
+              105 kg
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            104.45 x 59kg Bag
+            3.23 x 70kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1496="1496">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-d11f5ccb-226c-4d59-9d6a-2ab265455a5b" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-d11f5ccb-226c-4d59-9d6a-2ab265455a5b"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/6MBegE" id="ember1497" class="ember-view">  PG-0366
+</a>
+      </td>
+      <td>
+              Brazil - San Coffee Mundo Novo PN - 2016
+      </td>
+      <td class="no-wrap align-right">
+              52.8 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(27.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              46.2 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            5.47 x 59kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1499="1499">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-2ead3cfe-4ff1-43c4-b610-2fb3d7e5dea4" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-2ead3cfe-4ff1-43c4-b610-2fb3d7e5dea4"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/6MBZrd" id="ember1500" class="ember-view">  PG-0365
+</a>
+      </td>
+      <td>
+              Brazil - Guariroba - 2016
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--increasing">+100%</span>
+  from
+  24 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.71 x 59kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1502="1502">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-9b2538ff-36de-464c-8819-6a01b18ba9ff" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-9b2538ff-36de-464c-8819-6a01b18ba9ff"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/WnYAmG" id="ember1503" class="ember-view">  PG-0379
+</a>
+      </td>
+      <td>
+              Brazil - San Coffee Yellow Bourbon PN - 2016
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Lantana
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--decreasing">-60%</span>
+  from
+  120 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            3.79 x 59kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1505="1505">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-39ac9105-5a2c-43fa-8a27-0c3b5ef6cc0f" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-39ac9105-5a2c-43fa-8a27-0c3b5ef6cc0f"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/XmJMYg" id="ember1506" class="ember-view">  PG-0387
+</a>
+      </td>
+      <td>
+              Ethiopia - Aricha Washed - 2017
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  48 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            3.6 x 60kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1508="1508">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-3b720dd6-4d0b-4195-8008-37a9c57e1fca" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-3b720dd6-4d0b-4195-8008-37a9c57e1fca"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/Zlq7OV" id="ember1509" class="ember-view">  PG-0397
+</a>
+      </td>
+      <td>
+              El Salvador - La Avila Washed - 2017
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(25% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            4.3 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1511="1511">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-253cef19-baf2-409a-bd3c-edaddb20bc92" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-253cef19-baf2-409a-bd3c-edaddb20bc92"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/ndwEgj" id="ember1512" class="ember-view">  PG-0393
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Yellow Caturra Washed - 2017
+      </td>
+      <td class="no-wrap align-right">
+              27 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(14.0625% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Coffee
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              23.63 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.35 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1514="1514">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-eef9dba7-931d-4009-bd6c-939b7614f009" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-eef9dba7-931d-4009-bd6c-939b7614f009"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/QN3LxL" id="ember1515" class="ember-view">  PG-0343
+</a>
+      </td>
+      <td>
+              Colombia - Matambo A - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  24 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            1.63 x 70kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1517="1517">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-5830e9a6-992f-4824-967c-07721b28bf8a" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-5830e9a6-992f-4824-967c-07721b28bf8a"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/GVz3Qw" id="ember1518" class="ember-view">  PG-0376
+</a>
+      </td>
+      <td>
+              Brazil - Guariroba - 2016
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  24 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            5.15 x 59kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1520="1520">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-13b6f06e-d414-4b3e-be1a-7852e198df72" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-13b6f06e-d414-4b3e-be1a-7852e198df72"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/6MowkG" id="ember1521" class="ember-view">  PG-0374
+</a>
+      </td>
+      <td>
+              Peru - Cajamarca Nuevo Trujillo - Marcial Olivera
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Lantana
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--decreasing">-50%</span>
+  from
+  48 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.41 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1523="1523">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-49affa17-4d66-4eb9-9bde-9941d017959e" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-49affa17-4d66-4eb9-9bde-9941d017959e"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/wX1A3x" id="ember1524" class="ember-view">  PG-0342
+</a>
+      </td>
+      <td>
+              Colombia - Los Guacharos A - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Lantana
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--decreasing">-50%</span>
+  from
+  48 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.08 x 70kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1526="1526">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-3cf8ffb6-d3a3-4e83-a035-840fb2102ed7" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-3cf8ffb6-d3a3-4e83-a035-840fb2102ed7"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/1Nbp8l" id="ember1527" class="ember-view">  PG-0386
+</a>
+      </td>
+      <td>
+              Decaf - Colombia - Peebies
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Decaf
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  24 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            0.06 x 70kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1529="1529">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-84538eb9-8d66-468a-8769-d8a725558682" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-84538eb9-8d66-468a-8769-d8a725558682"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/6MD8Ed" id="ember1530" class="ember-view">  PG-0395
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Red bourbon Natural - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            19.65 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1532="1532">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-51f983e4-1d65-4e39-a9d9-690ede82c45d" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-51f983e4-1d65-4e39-a9d9-690ede82c45d"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/roKngz" id="ember1533" class="ember-view">  PG-0394
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Red bourbon Honey - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            19.65 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1535="1535">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-22951fb5-35f4-45f2-8916-173525ee7a12" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-22951fb5-35f4-45f2-8916-173525ee7a12"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/Bea22N" id="ember1536" class="ember-view">  PG-0401
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Yellow Caturra Natural - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Pack
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            0.91 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1538="1538" class="selected-row">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-5d454da3-4082-441b-814b-832fca841d30" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-5d454da3-4082-441b-814b-832fca841d30"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/royDnj" id="ember1539" class="ember-view">  PG-0396
+</a>
+      </td>
+      <td>
+              El Salvador - Huatalon Honey - 2017
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Elixir
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            19.65 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1541="1541">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-55d63a14-112e-4f37-a01d-324ecca72e97" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-55d63a14-112e-4f37-a01d-324ecca72e97"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/vWrYQA" id="ember1542" class="ember-view">  PG-0389
+</a>
+      </td>
+      <td>
+              Kenya - Gatamboya AA - Barichu F.C.S
+      </td>
+      <td class="no-wrap align-right">
+              18 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(9.375% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Coffee
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  18 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              15.75 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            0.9 x 60kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1544="1544">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-69d4cc42-12fe-401f-ab95-ae0e77380388" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-69d4cc42-12fe-401f-ab95-ae0e77380388"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/OPqDOr" id="ember1545" class="ember-view">  PG-0398
+</a>
+      </td>
+      <td>
+              El Salvador - Huatalon Natural - 2017
+      </td>
+      <td class="no-wrap align-right">
+              18 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(9.375% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Coffee
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              15.75 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            171 kg
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1547="1547">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-3f5b3294-2b97-421c-b52a-520b5738fd9d" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-3f5b3294-2b97-421c-b52a-520b5738fd9d"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/E2YOQL" id="ember1548" class="ember-view">  PG-0392
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Yellow Caturra Natural - 2017
+      </td>
+      <td class="no-wrap align-right">
+              9 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(4.6875% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--decreasing">-90.91%</span>
+  from
+  99 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              7.88 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            -8.86 kg
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1550="1550">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-142eedbb-d5c8-4eff-bd79-a7de8e99ee04" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-142eedbb-d5c8-4eff-bd79-a7de8e99ee04"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/YB7OAv" id="ember1551" class="ember-view">  PG-0391
+</a>
+      </td>
+      <td>
+              Guatemala - San Sebastian - Yellow Caturra Honey - 2017
+      </td>
+      <td class="no-wrap align-right">
+              7.5 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(3.90625% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              6.56 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.63 x 69kg Bag
       </td>
 <!----></tr>
 <!---->
@@ -1143,7 +1245,7 @@
       <td class="table__cell--footer align-right">
 
 <!---->
-            948.3 kg
+            972.3 kg
 
 <!---->
 <!---->
@@ -1159,7 +1261,16 @@
 <!---->
 <!---->
       </td>
-<!----><!----><!----><!---->      <td class="table__cell--footer align-right">
+<!----><!---->      <td class="table__cell--footer align-right">
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      </td>
+<!---->      <td class="table__cell--footer align-right">
 
 <!---->
 <!---->
@@ -1190,7 +1301,7 @@
 
 <!---->
 <!---->
-            15,229.4 kg
+            15,205.38 kg
 
 <!---->
 <!---->
@@ -1204,7 +1315,7 @@
   <div class="layout__col--2 align-middle table-summary">
     Show 1 - 22 of 22
 
-    <a href="https://c-sar.cropster.com/apps/roast/production-report/inventory#" class="btn btn-link clearFilters invisible" data-ember-action="" data-ember-action-1545="1545">
+    <a href="#" class="btn btn-link clearFilters invisible" data-ember-action="" data-ember-action-1552="1552">
       <span class="glyphicon glyphicon-remove-circle"></span>
     </a>
   </div>
@@ -1215,3 +1326,79 @@
 </div>
 
 <!----></div>
+  </div>
+</section>
+
+<div class="print-page-break-avoid">
+  <section id="production-over-time-section">
+    <div class="wrapper wrapper--big">
+      <h2>
+        Production over time
+      </h2>
+    </div>
+  </section>
+
+    <div id="ember1557" class="production-over-time-per-profile production-over-time production-over-time-per-lot production-over-time ember-view"><div class="wrapper wrapper--big">
+  <div class="layout__sidebar--right">
+    <div class="box">
+      <h4 class="box__header">
+        Display
+      </h4>
+
+      <div class="margin-bottom-small">
+        <label for="chart-group-by">
+          Group by:
+        </label>
+
+<select id="chart-group-by" class="ember-view">          <option value="DAY">
+            Days
+          </option>
+          <option value="WEEK" disabled="">
+            Weeks
+          </option>
+          <option value="MONTH" disabled="">
+            Months
+          </option>
+
+</select>      </div>
+
+      <div class="">
+        <input type="checkbox" value="" disabled="" id="chart-accumulate" class="input--checkbox ember-view">
+        <label for="chart-accumulate">
+            Sum up lots
+
+        </label>
+
+          <div class="text--light text--small">
+              You can only show the chart per lot if you select at most 7 lots.
+          </div>
+      </div>
+
+      <div class="margin-bottom-xsmall">
+        <input type="checkbox" value="" id="chart-compare-to-previous" class="input--checkbox ember-view">
+        <label for="chart-compare-to-previous">
+          Compare to previous
+        </label>
+      </div>
+
+<!---->
+    </div>
+  </div>
+
+  <div class="layout__sidebar__main">
+
+      <div class="align-center padding">
+        <p>
+          You can view the production over time here. Generating this graph may take a few seconds.
+        </p>
+        <button class="button--primary" data-ember-action="" data-ember-action-1558="1558">
+          Generate Graph
+        </button>
+      </div>
+  </div>
+</div>
+
+<div class="wrapper wrapper--big margin-top">
+<!----></div></div>
+</div>
+  </section>

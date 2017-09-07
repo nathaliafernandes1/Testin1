@@ -1,0 +1,2126 @@
+<table class="table table--striped table--sortable table--focusable">
+      <thead class=" ">
+<!---->        <tr>
+        <th class="table__header table-header-no-sorting ">
+              
+        </th>
+        <th class="table__header " data-ember-action="" data-ember-action-1265="1265">
+              Name
+                  <svg role="img" class="svg icon icon--small" viewBox="0 0 20 20"><use xlink:href="#sort_asc"></use></svg>
+
+<!---->
+        </th>
+        <th class="table__header align-right no-wrap" data-ember-action="" data-ember-action-1266="1266">
+              Batch Size
+              <!---->
+<!---->
+        </th>
+        <th class="table__header table-header-no-sorting ">
+              Machine
+        </th>
+<!---->        <th class="table__header " data-ember-action="" data-ember-action-1267="1267">
+              Green Lots / Components
+              <!---->
+<!---->
+        </th>
+        <th class="table__header table-header-no-sorting ">
+              Type
+        </th>
+<!----><!----><!----><!---->        <th class="table__header table-header-no-sorting align-right no-wrap">
+              Ref. QC
+        </th>
+<!----><!---->        <th class="table__header align-right no-wrap" data-ember-action="" data-ember-action-1268="1268">
+              Exp. Weight Loss
+              <!---->
+<!---->
+        </th>
+<!---->        <th class="table__header table-header-no-sorting ">
+              Notes
+        </th>
+        <th class="table__header table-header-no-sorting align-center">
+              Archived
+        </th>
+        <th class="table__header table-header-no-sorting ">
+              
+        </th>
+</tr>
+          <tr>
+      <th class="table__header
+          
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+      <th class="table__header
+          
+           table__header--filter
+          ">
+              <div>
+
+                  <input type="text" placeholder="Filter..." id="ember1269" class="table__header__filter input--small padding-right-medium ember-view">
+
+<!---->
+                              </div>
+      </th>
+      <th class="table__header
+          align-right no-wrap
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+      <th class="table__header
+          
+           table__header--filter
+          ">
+              <div>
+
+<div id="ember1274" class="ember-view"><div id="ember1281" class="ember-view">
+<div aria-owns="ember-basic-dropdown-content-ember1290" tabindex="-1" data-ebd-id="ember1290-trigger" role="button" id="ember1295" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1290" class="ember-power-select-multiple-options">
+<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1290" aria-controls="ember-power-select-options-ember1290" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
+</ul>
+<span class="ember-power-select-status-icon"></span></div>
+  <div id="ember-basic-dropdown-content-ember1290" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+
+</div></div>
+              </div>
+      </th>
+<!---->      <th class="table__header
+          
+           table__header--filter
+          ">
+              <div>
+
+                  <input type="text" placeholder="Filter..." id="ember1304" class="table__header__filter input--small padding-right-medium ember-view">
+
+<!---->
+                              </div>
+      </th>
+      <th class="table__header
+          
+           table__header--filter
+          ">
+              <div>
+
+
+<div aria-owns="ember-basic-dropdown-content-ember1306" tabindex="0" data-ebd-id="ember1306-trigger" role="button" id="ember1307" class="ember-power-select-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view">    <span class="ember-power-select-placeholder">Filter...</span>
+
+<span class="ember-power-select-status-icon"></span>
+</div>
+  <div id="ember-basic-dropdown-content-ember1306" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+
+
+              </div>
+      </th>
+<!----><!----><!----><!---->      <th class="table__header
+          align-right no-wrap
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+<!----><!---->      <th class="table__header
+          align-right no-wrap
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+<!---->      <th class="table__header
+          
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+      <th class="table__header
+          align-center
+           table__header--filter
+          ">
+              <div>
+
+                  <input type="checkbox" value="" id="ember1227-filter-boolean-isArchived" class="input--checkbox ember-view">
+                  <label for="ember1227-filter-boolean-isArchived">
+                    Show
+                  </label>
+
+              </div>
+      </th>
+      <th class="table__header
+          
+          table-header-no-filtering table__header--filter
+          ">
+              &nbsp;
+      </th>
+</tr>
+      </thead>
+      <tbody>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-gdy8" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-gdy8"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/gdy8" id="ember1324" class="ember-view">    Decaf - 8kg - Brazil Santa Lucia
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1332" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/DpzOQ" id="ember1335" class="ember-view">            [PG-0155]
+</a>
+          Decaf - Brazil Santa Lucia 
+
+          <span class="no-wrap ">
+            (0 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1346="1346">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/gdy8/edit" id="ember1347" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/gdy8/clone" id="ember1348" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-dxlW" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-dxlW"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/dxlW" id="ember1350" class="ember-view">    Decaf - 8kg - Londrina 
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1352" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/L8Yd6o" id="ember1353" class="ember-view">            [PG-0349]
+</a>
+          Brazil - Londrina Catuai Natural
+
+          <span class="no-wrap ">
+            (0 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1354="1354">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/dxlW/edit" id="ember1355" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/dxlW/clone" id="ember1356" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-AJZV" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-AJZV"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/AJZV" id="ember1758" class="ember-view">    Decaf - 8Kg - Nicaragua Jesus
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1759" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/3OO7aJ" id="ember1760" class="ember-view">            [PG-0345]
+</a>
+          Decaf - Nicaragua - Cerro De Jesus
+
+          <span class="no-wrap ">
+            (0 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1761="1761">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/AJZV/edit" id="ember1762" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/AJZV/clone" id="ember1763" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-enWq" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-enWq"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/enWq" id="ember1764" class="ember-view">    Decaf - 8kg - Peaberry
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            9.4 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1765" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/1Nbp8l" id="ember1766" class="ember-view">            [PG-0386]
+</a>
+          Decaf - Colombia - Peebies
+
+          <span class="no-wrap ">
+            (0 x 70kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1767="1767">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/enWq/edit" id="ember1768" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/enWq/clone" id="ember1769" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-6Vyx" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-6Vyx"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/6Vyx" id="ember1374" class="ember-view">    Decaf - Londrina - 20kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1376" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/L8Yd6o" id="ember1377" class="ember-view">            [PG-0349]
+</a>
+          Brazil - Londrina Catuai Natural
+
+          <span class="no-wrap ">
+            (0 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          15%
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1378="1378">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/6Vyx/edit" id="ember1379" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/6Vyx/clone" id="ember1380" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-QKgb" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-QKgb"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/QKgb" id="ember1770" class="ember-view">    Decaf - Peebies - 20kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+    Probat G30</div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1771" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/1Nbp8l" id="ember1772" class="ember-view">            [PG-0386]
+</a>
+          Decaf - Colombia - Peebies
+
+          <span class="no-wrap ">
+            (0 x 70kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          83.33
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          15%
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1773="1773">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/QKgb/edit" id="ember1774" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/QKgb/clone" id="ember1775" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-jDvJ" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-jDvJ"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/jDvJ" id="ember1391" class="ember-view">    Eat to the Beat - Filter - 10kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1393" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/YjaKV" id="ember1394" class="ember-view">            [PG-0159]
+</a>
+          El Salvador - Los Pirineos Washed - 2015
+
+          <span class="no-wrap ">
+            (0 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          For client ETTB only!
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1395="1395">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/jDvJ/edit" id="ember1396" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/jDvJ/clone" id="ember1397" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-EVlM" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-EVlM"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/EVlM" id="ember1399" class="ember-view">    Eat To The Beat - Filter - 20kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+    Probat G30</div>
+      </td>
+<!---->      <td>
+            <button data-tooltip="Add Lot" class="button no-border button--plain tooltip-info" data-ember-action="" data-ember-action-1400="1400">
+    <svg role="img" class="svg icon icon--grey block icon--small" viewBox="0 0 20 20"><use xlink:href="#add"></use></svg>
+  </button>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1401="1401">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/EVlM/edit" id="ember1402" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/EVlM/clone" id="ember1403" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-W3VJ" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-W3VJ"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/W3VJ" id="ember1776" class="ember-view">    Elixir - 20kg - Carrizal
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+    Probat G30</div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1777" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/VnYp3g" id="ember1778" class="ember-view">            [PG-0362]
+</a>
+          Costa Rica - Carrizal - 2016
+
+          <span class="no-wrap color-warning">
+            (0 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1779="1779">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/W3VJ/edit" id="ember1780" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/W3VJ/clone" id="ember1781" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-pWxr" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-pWxr"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/pWxr" id="ember1782" class="ember-view">    Elixir - Huatalon - 20kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1783" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/6GBVx" id="ember1784" class="ember-view">            [PG-0338]
+</a>
+          Elixir - El Salvador Huatalon Honey
+
+          <span class="no-wrap ">
+            (0 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1785="1785">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/pWxr/edit" id="ember1786" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/pWxr/clone" id="ember1787" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-EVaL" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-EVaL"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/EVaL" id="ember1788" class="ember-view">    Elixir - San Seb Natural - 20kg
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1789" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/zboer" id="ember1790" class="ember-view">            [PG-0337]
+</a>
+          Elixir - Guatemala San Sebastian Red Bourbon Natural
+
+          <span class="no-wrap ">
+            (1 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1791="1791">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/EVaL/edit" id="ember1792" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/EVaL/clone" id="ember1793" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-DaXY" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-DaXY"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/DaXY" id="ember1794" class="ember-view">    Elixir v14 - 6kg - San Sebastian Reb Bourbon Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1795" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/zboer" id="ember1796" class="ember-view">            [PG-0337]
+</a>
+          Elixir - Guatemala San Sebastian Red Bourbon Natural
+
+          <span class="no-wrap ">
+            (1 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1797="1797">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/DaXY/edit" id="ember1798" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/DaXY/clone" id="ember1799" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-e1me" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-e1me"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/e1me" id="ember1800" class="ember-view">    Elixir v14 - 8kg - Costa Rica Carrizal
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1801" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/YMDgW" id="ember1802" class="ember-view">            [PG-0336]
+</a>
+          Costa Rica - Carrizal - 2016
+
+          <span class="no-wrap ">
+            (1 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1803="1803">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/e1me/edit" id="ember1804" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/e1me/clone" id="ember1805" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-dZnW" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-dZnW"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/dZnW" id="ember1806" class="ember-view">    Elixir v14 - 8kg - Las Mercedes Huatalon Honey
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1807" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/6GBVx" id="ember1808" class="ember-view">            [PG-0338]
+</a>
+          Elixir - El Salvador Huatalon Honey
+
+          <span class="no-wrap ">
+            (0 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1809="1809">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/dZnW/edit" id="ember1810" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/dZnW/clone" id="ember1811" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-nvXJ" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-nvXJ"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/nvXJ" id="ember1812" class="ember-view">    Elixir v15 - 20kg - Brazil Guariroba Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1813" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/GVz3Qw" id="ember1814" class="ember-view">            [PG-0376]
+</a>
+          Brazil - Guariroba - 2016
+
+          <span class="no-wrap ">
+            (5 x 59kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1815="1815">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/nvXJ/edit" id="ember1816" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/nvXJ/clone" id="ember1817" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-0eoQ" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-0eoQ"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/0eoQ" id="ember1818" class="ember-view">    Elixir v15 - 20kg - Colombia Matambo
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1819" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/QN3LxL" id="ember1820" class="ember-view">            [PG-0343]
+</a>
+          Colombia - Matambo A - 2017
+
+          <span class="no-wrap ">
+            (2 x 70kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1821="1821">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/0eoQ/edit" id="ember1822" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/0eoQ/clone" id="ember1823" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-D1A2" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-D1A2"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/D1A2" id="ember1824" class="ember-view">    Elixir v15 - 20kg - Ethiopia Kochere Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1825" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/roO3db" id="ember1826" class="ember-view">            [PG-0373]
+</a>
+          Ethiopia - Kochere Natural G3
+
+          <span class="no-wrap color-warning">
+            (0 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1827="1827">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/D1A2/edit" id="ember1828" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/D1A2/clone" id="ember1829" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-bjJN" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-bjJN"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/bjJN" id="ember1830" class="ember-view">    Elixir v15 - 6kg - Colombia Matambo
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1831" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/QN3LxL" id="ember1832" class="ember-view">            [PG-0343]
+</a>
+          Colombia - Matambo A - 2017
+
+          <span class="no-wrap ">
+            (2 x 70kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1833="1833">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/bjJN/edit" id="ember1834" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/bjJN/clone" id="ember1835" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-Z7Xw" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-Z7Xw"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/Z7Xw" id="ember1836" class="ember-view">    Elixir v15 - 8kg - Brazil Guariroba Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1837" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/GVz3Qw" id="ember1838" class="ember-view">            [PG-0376]
+</a>
+          Brazil - Guariroba - 2016
+
+          <span class="no-wrap ">
+            (5 x 59kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1839="1839">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/Z7Xw/edit" id="ember1840" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/Z7Xw/clone" id="ember1841" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-qd0P" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-qd0P"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/qd0P" id="ember1842" class="ember-view">    Elixir v15 - 8kg - Ethiopia Kochere Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+          <!---->
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1843" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/WnYZPY" id="ember1844" class="ember-view">            [PG-0373]
+</a>
+          Ethiopia - Kochere Natural G3
+
+          <span class="no-wrap ">
+            (1 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1845="1845">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/qd0P/edit" id="ember1846" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/qd0P/clone" id="ember1847" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-0NXw" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-0NXw"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/0NXw" id="ember1848" class="ember-view">    Elixir v15.1 - 20kg - Aricha
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1849" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/XmJMYg" id="ember1850" class="ember-view">            [PG-0387]
+</a>
+          Ethiopia - Aricha Washed - 2017
+
+          <span class="no-wrap ">
+            (4 x 60kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1851="1851">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/0NXw/edit" id="ember1852" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/0NXw/clone" id="ember1853" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-ApzJG" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-ApzJG"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/ApzJG" id="ember1854" class="ember-view">    Elixir v16 - 20kg - San Seb - RB Honey
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1855" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/roKngz" id="ember1856" class="ember-view">            [PG-0394]
+</a>
+          Guatemala - San Sebastian - Red bourbon Honey - 2017
+
+          <span class="no-wrap ">
+            (20 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1857="1857">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/ApzJG/edit" id="ember1858" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/ApzJG/clone" id="ember1859" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-7kdLk" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-7kdLk"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/7kdLk" id="ember1860" class="ember-view">    Elixir v16 - Las Mercedes - Honey
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1861" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/royDnj" id="ember1862" class="ember-view">            [PG-0396]
+</a>
+          El Salvador - Huatalon Honey - 2017
+
+          <span class="no-wrap ">
+            (20 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1863="1863">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/7kdLk/edit" id="ember1864" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/7kdLk/clone" id="ember1865" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-XmwqB" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-XmwqB"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/XmwqB" id="ember1866" class="ember-view">    Elixir v16 - San Seb - RB Natural
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1867" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/6MD8Ed" id="ember1868" class="ember-view">            [PG-0395]
+</a>
+          Guatemala - San Sebastian - Red bourbon Natural - 2017
+
+          <span class="no-wrap ">
+            (20 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1869="1869">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/XmwqB/edit" id="ember1870" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/XmwqB/clone" id="ember1871" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+              <tr>
+      <td>
+          <div class="align-center">
+  <input type="checkbox" value="" id="ember1227-toggle-nBVO" class="input--checkbox--small input--checkbox ember-view">
+  <label for="ember1227-toggle-nBVO"></label>
+</div>
+      </td>
+      <td>
+          <a href="/apps/roast/profiles/nBVO" id="ember1872" class="ember-view">    ETTB - 20kg - Finca Johnny Red.Cat
+</a>
+      </td>
+      <td class="align-right no-wrap">
+            24 kg
+
+      </td>
+      <td>
+          <div class="comma-list">
+<!----></div>
+      </td>
+<!---->      <td>
+            <div class=" no-wrap">
+
+
+
+<button data-tooltip="Switch Lot" id="ember1873" class="button no-border button--plain align-middle margin-right-xsmall button--tooltip ember-view">          <svg role="img" class="svg icon icon--grey block" viewBox="0 0 20 20"><use xlink:href="#switch"></use></svg>
+
+</button>
+        <span class="width-large align-top inline wrap">
+<a href="/apps/lots/OPAGqM" id="ember1874" class="ember-view">            [PG-0356]
+</a>
+          Costa Rica - Finca Johnny Red Catuai - 2016
+
+          <span class="no-wrap ">
+            (0 x 69kg Bag)
+          </span>
+        </span>
+
+
+<!---->
+
+  </div>
+
+      </td>
+      <td>
+          Single origin
+      </td>
+<!----><!----><!----><!---->      <td class="align-right no-wrap">
+          
+
+      </td>
+<!----><!---->      <td class="align-right no-wrap">
+          
+      </td>
+<!---->      <td>
+          
+      </td>
+      <td class="align-center">
+          <div class="button-group button-group--small">
+
+  <button data-tooltip="Archive" class="button button--icon button--icon-only tooltip-info" data-ember-action="" data-ember-action-1875="1875">
+      <span class="image image--circle image--green"></span>
+  </button>
+
+</div>
+      </td>
+      <td class="align-right no-wrap">
+          <div class="button-group button-group--small">
+
+<a href="/apps/roast/profiles/nBVO/edit" id="ember1876" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Edit" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#edit"></use></svg>
+    </span>
+</a>
+<a href="/apps/roast/profiles/nBVO/clone" id="ember1877" class="button-group__button__outer button button--icon button--icon-only ember-view">    <span data-tooltip="Copy" class="button-group__button__inner tooltip-info">
+      <svg role="img" class="svg icon " viewBox="0 0 20 20"><use xlink:href="#copy"></use></svg>
+    </span>
+</a>
+<!---->
+</div>
+      </td>
+</tr>
+      </tbody>
+      <tfoot>
+        <!---->
+      </tfoot>
+    </table>

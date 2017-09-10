@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vcalendar PUBLIC "-//IETF//DTD XCAL/iCalendar XML//EN"
+"http://www.ietf.org/internet-drafts/draft-ietf-calsch-many-xcal-01.txt">
+<vcalendar
+ version="2.0"
+ prodid="-//31.14.138.78//NONSGML kigkonsult.se iCalcreator 2.20//"
+ calscale="GREGORIAN"
+ method="PUBLISH">
+<x-from-url>https://coffeebi.com</x-from-url>
+<x-wr-timezone>Europe/London</x-wr-timezone>
+<vtimezone>
+<tzid>Europe/London</tzid>
+<x-lic-location>Europe/London</x-lic-location>
+<standard>
+<dtstart>20171029T020000</dtstart>
+<tzoffsetfrom>+0100</tzoffsetfrom>
+<tzoffsetto>+0000</tzoffsetto>
+<tzname>GMT</tzname>
+</standard>
+<daylight>
+<dtstart>20170326T010000</dtstart>
+<tzoffsetfrom>+0000</tzoffsetfrom>
+<tzoffsetto>+0100</tzoffsetto>
+<rdate>20180325T010000</rdate>
+<tzname>BST</tzname>
+</daylight>
+</vtimezone>
+<vevent>
+<uid>ai1ec-1272@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.hotelympia.com/</contact>
+<description>Hotelympia, the UK’s largest foodserviceand hospitality event, returns to London’s ExCeL from February 29th to March 3rd. The exhibition brings in the UK the broadest range of future trends, fresh talent and attractions, new products, key exhibitors and insightful speakers. It will be all about operator needs, and the requirements of their business and their customers… Read the article</description>
+<dtstart value="DATE">20160229</dtstart>
+<dtend value="DATE">20160304</dtend>
+<geo>+51.508458;+0.025091</geo>
+<location>Excel London @ Western Gateway, London E16 1AA, UK</location>
+<sequence>0</sequence>
+<summary>Hotelympia 2016</summary>
+<url uri="https://coffeebi.com/event/hotelympia/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/Hotelympia_2016_header-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/Hotelympia_2016_header-300x148.jpg;300;148;1,large;https://coffeebi.com/wp-content/uploads/2016/04/Hotelympia_2016_header.jpg;471;232;</x-wp-images-url>
+<x-tags language="en-GB">Hotelympia,Londom</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-1379@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://agrofood-africa.com/</contact>
+<description />
+<dtstart value="DATE">20160404</dtstart>
+<dtend value="DATE">20160408</dtend>
+<geo>+15.500654;+32.559899</geo>
+<location>Khartoum International Fair Ground Burri - Sudan @ Khartoum, Sudan</location>
+<sequence>0</sequence>
+<summary>Foodex Africa</summary>
+<url uri="https://coffeebi.com/event/foodex-africa/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/logo-agri-africa-foodex-africa-150x123.png;150;123;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/logo-agri-africa-foodex-africa-300x92.png;300;92;1,large;https://coffeebi.com/wp-content/uploads/2016/04/logo-agri-africa-foodex-africa.png;400;123;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1319@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>https://www.gourmets.net/salon/index.php</contact>
+<description />
+<dtstart value="DATE">20160404</dtstart>
+<dtend value="DATE">20160408</dtend>
+<geo>+40.463814;-3.616416</geo>
+<location>Ifema Feria de Madrid @ Av. Partenón, 28042 Madrid, Madrid, Spain</location>
+<sequence>0</sequence>
+<summary>Salón de Gourmets 2016</summary>
+<url uri="https://coffeebi.com/event/salon-de-gourmets-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/Cartelhome2015-700x340-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/Cartelhome2015-700x340-300x146.jpg;300;146;1,large;https://coffeebi.com/wp-content/uploads/2016/04/Cartelhome2015-700x340.jpg;700;340;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1383@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.worldtravelcateringexpo.com/</contact>
+<description />
+<dtstart value="DATE">20160405</dtstart>
+<dtend value="DATE">20160408</dtend>
+<geo>+53.564431;+9.96905</geo>
+<location>Hamburg Messe @ 20357 Hamburg, Germany</location>
+<sequence>0</sequence>
+<summary>World Travel Catering &amp; Onboard Services</summary>
+<url uri="https://coffeebi.com/event/world-travel-catering-onboard-services/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/catering.gif;120;80;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1337@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.eurogastro.com.pl/</contact>
+<description />
+<dtstart value="DATE">20160406</dtstart>
+<dtend value="DATE">20160409</dtend>
+<geo>+52.240786;+21.139111</geo>
+<location>Trade Fair and Congress Centre  @ Marsa 56c, 04-242 Warszawa, Poland</location>
+<sequence>0</sequence>
+<summary>EuroGastro 2016</summary>
+<url uri="https://coffeebi.com/event/eurogastro-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/eg-logo-wybrane1-400x244-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/eg-logo-wybrane1-400x244-300x183.jpg;300;183;1,large;https://coffeebi.com/wp-content/uploads/2016/04/eg-logo-wybrane1-400x244.jpg;400;244;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1332@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.londoncoffeefestival.com/</contact>
+<description />
+<dtstart value="DATE">20160407</dtstart>
+<dtend value="DATE">20160411</dtend>
+<geo>+51.522003;-0.071714</geo>
+<location>Old Truman Brewery  @ Brick Ln, London E1 6QR, UK</location>
+<sequence>0</sequence>
+<summary>The London Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/the-london-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/LondonCoffeeFestival_Logo-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/LondonCoffeeFestival_Logo-300x300.jpg;300;300;1,large;https://coffeebi.com/wp-content/uploads/2016/04/LondonCoffeeFestival_Logo.jpg;400;399;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1453@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://singaporecoffeefestival.sg/</contact>
+<description />
+<dtstart value="DATE">20160409</dtstart>
+<dtend value="DATE">20160415</dtend>
+<geo>+01.291307;+103.86391</geo>
+<location>THE F1 PIT BUILDING @ 1 Republic Blvd, Singapore 038975</location>
+<sequence>0</sequence>
+<summary>Singapore Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/singapore-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/47a50840c8a42ec0d96720e835508c44-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/47a50840c8a42ec0d96720e835508c44-300x136.jpg;300;136;1,large;https://coffeebi.com/wp-content/uploads/2016/04/47a50840c8a42ec0d96720e835508c44.jpg;720;327;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1376@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.foodnhotelasia.com/</contact>
+<description />
+<dtstart value="DATE">20160412</dtstart>
+<dtend value="DATE">20160416</dtend>
+<geo>+01.332875;+103.959004</geo>
+<location>Singapore Expo @ 1 Expo Dr, Singapore 486150</location>
+<sequence>0</sequence>
+<summary>Food &amp; Hotel Asia 2016 – Speciality Coffee&amp;Tea</summary>
+<url uri="https://coffeebi.com/event/food-hotel-asia-2016-speciality-coffeetea/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/speciality-coffee-and-tea-150x84.png;150;84;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/speciality-coffee-and-tea.png;190;84;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1325@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.cafeshow.com.vn/outline/intro</contact>
+<description />
+<dtstart value="DATE">20160412</dtstart>
+<dtend value="DATE">20160415</dtend>
+<geo>+10.731286;+106.721512</geo>
+<location>Saigon Exhibition &amp; Convention (SECC) @ 799 Nguyễn Văn Linh, Tân Phú, Quận 7, Hồ Chí Minh, Vietnam</location>
+<sequence>0</sequence>
+<summary>Vietnam Int’l Cafe Show 2016</summary>
+<url uri="https://coffeebi.com/event/vietnam-intl-cafe-show-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/logo-150x50.jpg;150;50;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/logo.jpg;267;50;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1261@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>CICC - Cairo International Convention &amp; Exhibition Center; http://www.cafex-me.com/</contact>
+<description />
+<dtstart value="DATE">20160413</dtstart>
+<dtend value="DATE">20160417</dtend>
+<geo>+30.071246;+31.353817</geo>
+<location>CICC - Cairo International Convention &amp; Exhibition Center @ El-Nasr Rd, Cairo Governorate, Egypt</location>
+<sequence>0</sequence>
+<summary>Cafex 2016</summary>
+<url uri="https://coffeebi.com/event/cafex-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/cafex-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/cafex-300x157.png;300;157;1,large;https://coffeebi.com/wp-content/uploads/2016/04/cafex.png;580;303;</x-wp-images-url>
+<x-tags language="en-GB">Cafex 2016,Catering,Coffee</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-1340@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://coffeeexposeoul.com/</contact>
+<description />
+<dtstart value="DATE">20160414</dtstart>
+<dtend value="DATE">20160418</dtend>
+<geo>+37.510193;+127.058582</geo>
+<location>COEX Convention &amp; Exhibition Ltd. @ 159 Samseong 1(il)-dong, Gangnam-gu, Seoul, South Korea</location>
+<sequence>0</sequence>
+<summary>Coffee Expo Seoul 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-expo-seoul-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/Coffee-logo-2016-150x75.jpg;150;75;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/Coffee-logo-2016-300x52.jpg;300;52;1,large;https://coffeebi.com/wp-content/uploads/2016/04/Coffee-logo-2016.jpg;431;75;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1268@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.scaaevent.org/</contact>
+<description />
+<dtstart value="DATE">20160414</dtstart>
+<dtend value="DATE">20160418</dtend>
+<geo>+32.165622;-82.900075</geo>
+<location>Atlanta Georgia  World Congress Center @ Georgia, USA</location>
+<sequence>0</sequence>
+<summary>SCAA EXPO</summary>
+<url uri="https://coffeebi.com/event/scaa-expo/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/scaa-georgia-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/scaa-georgia.png;259;169;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1334@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://coffeefest.by/</contact>
+<description>MINSK – Coffee Fest 2016 is taking place in ARENA city mall on April 16-17. It is the largest even in the industry in Belarus where producers, suppliers, vendors, and fans can meet to discuss all important issues and to enjoy coffee. The program includes degustation, workshops, and masterclasses. [Read more]</description>
+<dtstart value="DATE">20160416</dtstart>
+<dtend value="DATE">20160418</dtend>
+<geo>+53.917894;+27.533026</geo>
+<location>ARENAcity @ praspiekt Pieramožcaŭ 84, Minsk, Belarus</location>
+<sequence>0</sequence>
+<summary>Minsk Coffee Fest 2016</summary>
+<url uri="https://coffeebi.com/event/minsk-coffee-fest-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/belarus-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/belarus-300x124.jpg;300;124;1,large;https://coffeebi.com/wp-content/uploads/2016/04/belarus.jpg;509;211;</x-wp-images-url>
+<x-tags language="en-GB">Coffee Fest,Minsk</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-1850@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160503</dtstart>
+<dtend value="DATE">20160514</dtend>
+<location>Lambari, Brasil</location>
+<sequence>0</sequence>
+<summary>Barista and Farmer competition</summary>
+<url uri="https://coffeebi.com/event/barista-and-farmer-competition/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/13087050_623940677770687_6437551833695075777_o-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/13087050_623940677770687_6437551833695075777_o-300x159.jpg;300;159;1,large;https://coffeebi.com/wp-content/uploads/2016/05/13087050_623940677770687_6437551833695075777_o-1024x542.jpg;840;445;1,full;https://coffeebi.com/wp-content/uploads/2016/05/13087050_623940677770687_6437551833695075777_o.jpg;1975;1046;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1848@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160508</dtstart>
+<dtend value="DATE">20160511</dtend>
+<location>Lapangan Merdeka, Medan, Indonesia</location>
+<sequence>0</sequence>
+<summary>Medan International Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/medan-international-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/kopi3-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/kopi3-300x100.jpg;300;100;1,large;https://coffeebi.com/wp-content/uploads/2016/05/kopi3-1024x341.jpg;840;280;1,full;https://coffeebi.com/wp-content/uploads/2016/05/kopi3.jpg;1200;400;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1322@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160510</dtstart>
+<dtend value="DATE">20160513</dtend>
+<geo>+50.064157;+20.009523</geo>
+<location>International Exhibition and Convention Centre EXPO Krakow @ 31-586 Kraków, Poland</location>
+<sequence>0</sequence>
+<summary>Tea &amp; Coffee World Cup 2016</summary>
+<url uri="https://coffeebi.com/event/tea-coffee-world-cup-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/cropped-tcwc-logo-150x110.png;150;110;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/cropped-tcwc-logo.png;274;110;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1701@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160513</dtstart>
+<dtend value="DATE">20160523</dtend>
+<geo>+19.202572;-155.477472</geo>
+<location>Pahala, HI 96777, USA</location>
+<sequence>0</sequence>
+<summary>Kau Coffee Festival 2016</summary>
+<url uri="https://coffeebi.com/event/kau-coffee-festival-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/kau-coffee-350x223-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/kau-coffee-350x223-300x191.jpg;300;191;1,large;https://coffeebi.com/wp-content/uploads/2016/05/kau-coffee-350x223.jpg;350;223;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1709@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160516</dtstart>
+<dtend value="DATE">20160517</dtend>
+<geo>+42.63307;-88.643714</geo>
+<location>Delavan, WI, USA</location>
+<sequence>0</sequence>
+<summary>Roasters Guild Retreat</summary>
+<url uri="https://coffeebi.com/event/roasters-guild-retreat/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/10478585_10153937206973150_2471477816719142692_n-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/10478585_10153937206973150_2471477816719142692_n-300x300.jpg;300;300;1,large;https://coffeebi.com/wp-content/uploads/2016/05/10478585_10153937206973150_2471477816719142692_n.jpg;367;367;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1852@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160525</dtstart>
+<dtend value="DATE">20160530</dtend>
+<location>IMPACT Exhibition and Convention Center, Bangkok, Thailand</location>
+<sequence>0</sequence>
+<summary>World of Coffee &amp; Tea</summary>
+<url uri="https://coffeebi.com/event/world-of-coffee-tea/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/logo.png;141;140;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1548@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160527</dtstart>
+<dtend value="DATE">20160530</dtend>
+<geo>+39.933363;+32.859742</geo>
+<location>Bilkent Station @ Ankara, Ankara, Turkey</location>
+<sequence>0</sequence>
+<summary>Coffee Weekend Ankara</summary>
+<url uri="https://coffeebi.com/event/coffee-weekend-ankara/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/Ankara-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/Ankara-300x114.jpg;300;114;1,large;https://coffeebi.com/wp-content/uploads/2016/04/Ankara-1024x389.jpg;840;319;1,full;https://coffeebi.com/wp-content/uploads/2016/04/Ankara.jpg;2048;777;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2251@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160602</dtstart>
+<dtend value="DATE">20160606</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Taste of Moscow</summary>
+<url uri="https://coffeebi.com/event/taste-of-moscow/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1648@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160605</dtstart>
+<dtend value="DATE">20160606</dtend>
+<geo>+40.766377;-73.28505</geo>
+<location>226 N Fehr Way, Bay Shore, NY 11706, USA</location>
+<sequence>0</sequence>
+<summary>Coffee and Tea Festival Philly Iced 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-and-tea-festival-philly-iced-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/ctphillyiced-landing16-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/ctphillyiced-landing16-186x300.jpg;186;300;1,large;https://coffeebi.com/wp-content/uploads/2016/04/ctphillyiced-landing16.jpg;254;409;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1854@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160606</dtstart>
+<dtend value="DATE">20160610</dtend>
+<location>Miramonte Resort &amp; Spa, California, United States</location>
+<sequence>0</sequence>
+<summary>World of Coffee &amp; Tea</summary>
+<url uri="https://coffeebi.com/event/world-of-coffee-tea-2/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/logo-1.png;141;140;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2208@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160608</dtstart>
+<dtend value="DATE">20160611</dtend>
+<geo>+10.823099;+106.629664</geo>
+<location>SECC @ Ho Chi Minh City, Ho Chi Minh 70000, Vietnam</location>
+<sequence>0</sequence>
+<summary>Vietnam International Coffee &amp; Dessert Fair</summary>
+<url uri="https://coffeebi.com/event/vietnam-international-coffee-dessert-fair/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1856@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160609</dtstart>
+<dtend value="DATE">20160613</dtend>
+<location>F1 Pit Building, Singapore, Singapore</location>
+<sequence>0</sequence>
+<summary>Singapore Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/singapore-coffee-festival-2/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/12187945_1640302882924230_7090152677027583522_n-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/12187945_1640302882924230_7090152677027583522_n-300x300.png;300;300;1,large;https://coffeebi.com/wp-content/uploads/2016/05/12187945_1640302882924230_7090152677027583522_n.png;600;600;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1544@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160610</dtstart>
+<dtend value="DATE">20160613</dtend>
+<geo>+32.774389;-96.800285</geo>
+<location>Kay Bailey Hutchison Convention Center: Hall C @ 650 S Griffin St, Dallas, TX 75202, USA</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Dallas 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-dallas-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1405@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.fispalcafe.com.br/en/</contact>
+<description />
+<dtstart value="DATE">20160614</dtstart>
+<dtend value="DATE">20160618</dtend>
+<geo>-23.510825;-46.612043</geo>
+<location>Expo Center Norte @ Rua José Bernardo Pinto, 333 - Vila Guilherme, São Paulo - SP, Brazil</location>
+<sequence>0</sequence>
+<summary>Fispal Café 2016</summary>
+<url uri="https://coffeebi.com/event/fispal-cafe-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/5097_logo_hora-01-015-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/5097_logo_hora-01-015-300x144.png;300;144;1,large;https://coffeebi.com/wp-content/uploads/2016/04/5097_logo_hora-01-015.png;312;150;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1407@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.worldofcoffee-dublin.com/</contact>
+<description />
+<dtstart value="DATE">20160623</dtstart>
+<dtend value="DATE">20160626</dtend>
+<geo>+53.32937;-6.227505</geo>
+<location>RDS Royal Dublin Society @ Dublin 4, Ireland</location>
+<sequence>0</sequence>
+<summary>World of Coffee</summary>
+<url uri="https://coffeebi.com/event/world-of-coffee/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/1433863904-150x140.png;150;140;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/1433863904.png;237;140;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2187@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160708</dtstart>
+<dtend value="DATE">20160711</dtend>
+<location>Beijing, China</location>
+<sequence>0</sequence>
+<summary>Cafe Show China</summary>
+<url uri="https://coffeebi.com/event/cafe-show-china/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1451@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160708</dtstart>
+<dtend value="DATE">20160711</dtend>
+<sequence>0</sequence>
+<summary>Costa Rica Expo Café 2016</summary>
+<url uri="https://coffeebi.com/event/costa-rica-expo-cafe-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1752@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20160714</dtstart>
+<dtend value="DATE">20160718</dtend>
+<geo>-26.025973;+28.012711</geo>
+<location>Montecasino Blvd, Johannesburg, 2055, South Africa</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Chocolate 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-chocolate-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/coffeech-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/coffeech-300x111.jpg;300;111;1,large;https://coffeebi.com/wp-content/uploads/2016/05/coffeech-1024x379.jpg;840;311;1,full;https://coffeebi.com/wp-content/uploads/2016/05/coffeech.jpg;2048;757;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2875@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160715</dtstart>
+<dtend value="DATE">20160719</dtend>
+<location>Taiwan</location>
+<sequence>0</sequence>
+<summary>TCFB – Taichung International Tea &amp; Coffee Show</summary>
+<url uri="https://coffeebi.com/event/tcfb-taichung-international-tea-coffee-show/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1410@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160724</dtstart>
+<dtend value="DATE">20160727</dtend>
+<geo>-14.865949;-40.577854</geo>
+<location>Barra do Choça (Brasile) @ Barra do Choça, Barra do Choça - BA, Brazil</location>
+<sequence>0</sequence>
+<summary>Encontro Nacional do Café 2016</summary>
+<url uri="https://coffeebi.com/event/encontro-nacional-do-cafe-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1760@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160828</dtstart>
+<dtend value="DATE">20160831</dtend>
+<geo>+34.041361;-118.269777</geo>
+<location>Los Angeles Convention Center  @ 1201 S Figueroa St, Los Angeles, CA 90015, USA</location>
+<sequence>0</sequence>
+<summary>Western Foodservice &amp; Hospitality Expo</summary>
+<url uri="https://coffeebi.com/event/western-foodservice-hospitality-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2252@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160831</dtstart>
+<dtend value="DATE">20160912</dtend>
+<location>Riga, Latvia</location>
+<sequence>0</sequence>
+<summary>Gastronomy Festival</summary>
+<url uri="https://coffeebi.com/event/gastronomy-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1415@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160901</dtstart>
+<dtend value="DATE">20160904</dtend>
+<geo>+23.634501;-102.552784</geo>
+<location>WTC World Trade Center @ Mexico</location>
+<sequence>0</sequence>
+<summary>Expo Café México 2016</summary>
+<url uri="https://coffeebi.com/event/expo-cafe-mexico-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3572@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://berlincoffeefestival.de/</contact>
+<description></description>
+<dtstart value="DATE">20160902</dtstart>
+<dtend value="DATE">20160905</dtend>
+<location>Berlin, Germany</location>
+<sequence>0</sequence>
+<summary>Berlin Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/berlin-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2870@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160902</dtstart>
+<dtend value="DATE">20160905</dtend>
+<location>Jakarta, Indonesia</location>
+<sequence>0</sequence>
+<summary>Café &amp; Brasserie Indonesia – CBI</summary>
+<url uri="https://coffeebi.com/event/cafe-brasserie-indonesia-cbi/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1704@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.coteca-hamburg.com/</contact>
+<description></description>
+<dtstart value="DATE">20160907</dtstart>
+<dtend value="DATE">20160910</dtend>
+<geo>+53.551085;+9.993682</geo>
+<location>CCH – Congress Center @ Hamburg, Germany</location>
+<sequence>0</sequence>
+<summary>COTECA 2016</summary>
+<url uri="https://coffeebi.com/event/coteca-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2253@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160907</dtstart>
+<dtend value="DATE">20160911</dtend>
+<location>Riga, Latvia</location>
+<sequence>0</sequence>
+<summary>Riga Food</summary>
+<url uri="https://coffeebi.com/event/riga-food/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1754@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160909</dtstart>
+<dtend value="DATE">20160912</dtend>
+<geo>-33.905378;+18.40736</geo>
+<location>South Africa</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Chocolate 2016</summary>
+<url uri="https://coffeebi.com/event/1754/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1706@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160910</dtstart>
+<dtend value="DATE">20160912</dtend>
+<geo>+18.220833;-66.590149</geo>
+<location>Puerto Rico</location>
+<sequence>0</sequence>
+<summary>Coffee and Chocolate Expo 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-and-chocolate-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2254@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160912</dtstart>
+<dtend value="DATE">20160916</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>WorldFood Moscow</summary>
+<url uri="https://coffeebi.com/event/worldfood-moscow/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1763@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160914</dtstart>
+<dtend value="DATE">20160917</dtend>
+<geo>+37.09024;-95.712891</geo>
+<location>Golden Bean North America @ United States</location>
+<sequence>0</sequence>
+<summary>Golden Bean North America</summary>
+<url uri="https://coffeebi.com/event/golden-bean-north-america/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2255@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160916</dtstart>
+<dtend value="DATE">20160918</dtend>
+<location>Kyiv, Ukraine</location>
+<sequence>0</sequence>
+<summary>Coffee and Chocolate Fest</summary>
+<url uri="https://coffeebi.com/event/coffee-and-chocolate-fest/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2261@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160916</dtstart>
+<dtend value="DATE">20160919</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Coffee and Tea Festival</summary>
+<url uri="https://coffeebi.com/event/coffee-and-tea-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2262@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160916</dtstart>
+<dtend value="DATE">20160919</dtend>
+<location>Yerevan, Armenia</location>
+<sequence>0</sequence>
+<summary>Expo Food &amp; Drinks</summary>
+<url uri="https://coffeebi.com/event/expo-food-drinks/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3763@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://coffeexiran.com/</contact>
+<description></description>
+<dtstart value="DATE">20160920</dtstart>
+<dtend value="DATE">20160924</dtend>
+<location>Tehrane, Iran</location>
+<sequence>0</sequence>
+<summary>Coffeexiran</summary>
+<url uri="https://coffeebi.com/event/coffeexiran/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2195@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160921</dtstart>
+<dtend value="DATE">20160925</dtend>
+<location>Shanghai, China</location>
+<sequence>0</sequence>
+<summary>Global Tea &amp; Coffee Expo /China Tea Fair</summary>
+<url uri="https://coffeebi.com/event/global-tea-coffee-expo-china-tea-fair/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1417@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160921</dtstart>
+<dtend value="DATE">20160924</dtend>
+<geo>-19.813509;-43.884971</geo>
+<location>Brasile</location>
+<sequence>0</sequence>
+<summary>Semana Internacional do Café 2016</summary>
+<url uri="https://coffeebi.com/event/semana-internacional-do-cafe-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2890@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160922</dtstart>
+<dtend value="DATE">20160926</dtend>
+<location>lviv ukraina</location>
+<sequence>0</sequence>
+<summary>Lviv Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/lviv-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2862@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160924</dtstart>
+<dtend value="DATE">20160927</dtend>
+<location>Belo Horizonte (Brazil - America)</location>
+<sequence>0</sequence>
+<summary>ESPAÇO CAFÉ BRASIL 2016</summary>
+<url uri="https://coffeebi.com/event/espaco-cafe-brasil-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1428@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://coffeeteashow.ca/</contact>
+<description></description>
+<dtstart value="DATE">20160925</dtstart>
+<dtend value="DATE">20160927</dtend>
+<geo>+43.703265;-79.63767</geo>
+<location>Canada</location>
+<sequence>0</sequence>
+<summary>The Canadian Coffee &amp; Tea 2016</summary>
+<url uri="https://coffeebi.com/event/the-canadian-coffee-tea-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2263@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160928</dtstart>
+<dtend value="DATE">20161001</dtend>
+<location>Tashkent, Uzbekistan</location>
+<sequence>0</sequence>
+<summary>Food Week Uzbekistan</summary>
+<url uri="https://coffeebi.com/event/food-week-uzbekistan/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1546@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20160930</dtstart>
+<dtend value="DATE">20161003</dtend>
+<geo>+33.800953;-117.920492</geo>
+<location>Anaheim Convention Center: Hall E @ 800 W Katella Ave, Anaheim, CA 92802, USA</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Anaheim 2016</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-anaheim-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1860@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161004</dtstart>
+<dtend value="DATE">20161008</dtend>
+<location>Colombia</location>
+<sequence>0</sequence>
+<summary>ExpoEspeciales</summary>
+<url uri="https://coffeebi.com/event/expoespeciales/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1769@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.istanbulcoffeefestival.com/</contact>
+<description></description>
+<dtstart value="DATE">20161006</dtstart>
+<dtend value="DATE">20161010</dtend>
+<geo>+41.008238;+28.978359</geo>
+<location>Istanbul, İstanbul, Turkey</location>
+<sequence>0</sequence>
+<summary>Istanbul Coffee Festival 2016</summary>
+<url uri="https://coffeebi.com/event/istanbul-coffee-festival-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2264@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>https://pirexpo.com/</contact>
+<description></description>
+<dtstart value="DATE">20161017</dtstart>
+<dtend value="DATE">20161021</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Moscow Coffee and Tea Expo</summary>
+<url uri="https://coffeebi.com/event/moscow-coffee-and-tea-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2556@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.triestespresso.it/</contact>
+<description></description>
+<dtstart value="DATE">20161020</dtstart>
+<dtend value="DATE">20161023</dtend>
+<location>Trieste (IT)</location>
+<sequence>0</sequence>
+<summary>Triestespresso</summary>
+<url uri="https://coffeebi.com/event/triestespresso/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1771@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161020</dtstart>
+<dtend value="DATE">20161023</dtend>
+<location>Mumbay</location>
+<sequence>0</sequence>
+<summary>World Tea &amp; Coffee Expo</summary>
+<url uri="https://coffeebi.com/event/world-tea-coffee-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3947@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161021</dtstart>
+<dtend value="DATE">20161023</dtend>
+<location>Hanapepe, USA</location>
+<sequence>0</sequence>
+<summary>Kauai Chocolate &amp; Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/kauai-chocolate-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2557@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.hostelco.com/it/home</contact>
+<description></description>
+<dtstart value="DATE">20161023</dtstart>
+<dtend value="DATE">20161027</dtend>
+<location>Barcelona (ES)</location>
+<sequence>0</sequence>
+<summary>Hostelco</summary>
+<url uri="https://coffeebi.com/event/hostelco/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1432@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.dmpsrl.eu/progetti/pabogel/</contact>
+<description></description>
+<dtstart value="DATE">20161023</dtstart>
+<dtend value="DATE">20161027</dtend>
+<geo>+41.902783;+12.496366</geo>
+<location>Rome, Italy</location>
+<sequence>0</sequence>
+<summary>Pabogel</summary>
+<url uri="https://coffeebi.com/event/pabogel/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2266@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161026</dtstart>
+<dtend value="DATE">20161028</dtend>
+<location>Kyiv, Ukraine</location>
+<sequence>0</sequence>
+<summary>WorldFood Ukraine</summary>
+<url uri="https://coffeebi.com/event/worldfood-ukraine/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2267@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161027</dtstart>
+<dtend value="DATE">20161031</dtend>
+<location>Tallinn, Estonia</location>
+<sequence>0</sequence>
+<summary>FoodFest</summary>
+<url uri="https://coffeebi.com/event/foodfest/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3949@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161028</dtstart>
+<dtend value="DATE">20161031</dtend>
+<location>Mid Valley Exhibition Centre Mid Valley Megamall, Kuala Lumpur, Malaysia</location>
+<sequence>0</sequence>
+<summary>I Love Coffee &amp; Tea Expo</summary>
+<url uri="https://coffeebi.com/event/i-love-coffee-tea-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2268@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161101</dtstart>
+<dtend value="DATE">20161104</dtend>
+<location>Kyiv, Ukraine</location>
+<sequence>0</sequence>
+<summary>Restaurant Food Expo</summary>
+<url uri="https://coffeebi.com/event/restaurant-food-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1773@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20161102</dtstart>
+<dtend value="DATE">20161105</dtend>
+<geo>+25.204849;+55.270783</geo>
+<location>International Conferences &amp; Exhibitions LLC @ Dubai - Dubai - United Arab Emirates</location>
+<sequence>0</sequence>
+<summary>International Coffee &amp; Tea Festival</summary>
+<url uri="https://coffeebi.com/event/international-coffee-tea-festival/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/International-Coffee-and-Tea-Festival-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/International-Coffee-and-Tea-Festival-300x176.jpg;300;176;1,large;https://coffeebi.com/wp-content/uploads/2016/05/International-Coffee-and-Tea-Festival.jpg;432;254;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2269@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161102</dtstart>
+<dtend value="DATE">20161105</dtend>
+<location>Almaty, Kazakhstan</location>
+<sequence>0</sequence>
+<summary>WorldFood Kazakhstan</summary>
+<url uri="https://coffeebi.com/event/worldfood-kazakhstan/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2654@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161104</dtstart>
+<dtend value="DATE">20161112</dtend>
+<location>Kailua-Kona, HI</location>
+<sequence>0</sequence>
+<summary>Kona Coffee Cultural Festival</summary>
+<url uri="https://coffeebi.com/event/kona-coffee-cultural-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1650@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161104</dtstart>
+<dtend value="DATE">20161106</dtend>
+<location>The Greater Philadelphia Expo Center</location>
+<sequence>0</sequence>
+<summary>Coffee and tea festival Philly 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-and-tea-festival-philly-2017-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2655@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161105</dtstart>
+<dtend value="DATE">20161106</dtend>
+<location>Hōlualoa HI USA</location>
+<sequence>0</sequence>
+<summary>Holualoa village coffee &amp; art stroll</summary>
+<url uri="https://coffeebi.com/event/holualoa-village-coffee-art-stroll/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2652@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161105</dtstart>
+<dtend value="DATE">20161106</dtend>
+<location>Milwaukee</location>
+<sequence>0</sequence>
+<summary>Milwaukee Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/milwaukee-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3951@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161105</dtstart>
+<dtend value="DATE">20161106</dtend>
+<location>Wiseguys Banquet &amp; Entertainment Center, Milwaukee, USA</location>
+<sequence>0</sequence>
+<summary>Milwaukee Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/milwaukee-coffee-festival-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2192@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20161107</dtstart>
+<dtend value="DATE">20161110</dtend>
+<location>Shanghai China</location>
+<sequence>0</sequence>
+<summary>Food &amp; Hotel China 2016</summary>
+<url uri="https://coffeebi.com/event/ms-lily-zhu-ms-becky-sun/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/2015fhc_header-1-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/2015fhc_header-1-300x75.jpg;300;75;1,large;https://coffeebi.com/wp-content/uploads/2016/05/2015fhc_header-1.jpg;840;209;,full;https://coffeebi.com/wp-content/uploads/2016/05/2015fhc_header-1.jpg;977;243;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2190@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description />
+<dtstart value="DATE">20161107</dtstart>
+<dtend value="DATE">20161110</dtend>
+<location>Dubai, United Arab Emirates</location>
+<sequence>0</sequence>
+<summary>Gulfood Manufacturing Specialty Coffee MENA 2016</summary>
+<url uri="https://coffeebi.com/event/gulfood-manufacturing-specialty-coffee-mena-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/05/gfm_logo_2016_website-150x138.png;150;138;1,medium;https://coffeebi.com/wp-content/uploads/2016/05/gfm_logo_2016_website-300x138.png;300;138;1</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2270@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161109</dtstart>
+<dtend value="DATE">20161112</dtend>
+<location>Novosibirsk, Russia</location>
+<sequence>0</sequence>
+<summary>Inrefood Siberia</summary>
+<url uri="https://coffeebi.com/event/inrefood-siberia/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2271@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161110</dtstart>
+<dtend value="DATE">20161113</dtend>
+<location>Vilnius, Lithuania</location>
+<sequence>0</sequence>
+<summary>BALTIC FOOD AND BEVERAGE EXHIBITION</summary>
+<url uri="https://coffeebi.com/event/baltic-food-and-beverage-exhibition/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1776@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161113</dtstart>
+<dtend value="DATE">20161114</dtend>
+<geo>+37.09024;-95.712891</geo>
+<location>United States</location>
+<sequence>0</sequence>
+<summary>Charleston Coffee Cup</summary>
+<url uri="https://coffeebi.com/event/charleston-coffee-cup/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2272@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161115</dtstart>
+<dtend value="DATE">20161118</dtend>
+<location>St.Petersburg, Russia</location>
+<sequence>0</sequence>
+<summary>PeterFood</summary>
+<url uri="https://coffeebi.com/event/peterfood/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2876@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161118</dtstart>
+<dtend value="DATE">20161122</dtend>
+<location>Taiwan</location>
+<sequence>0</sequence>
+<summary>Taipei International Tea &amp; Coffee Expo</summary>
+<url uri="https://coffeebi.com/event/taipei-international-tea-coffee-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2691@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161125</dtstart>
+<dtend value="DATE">20161128</dtend>
+<location>La Rochelle, France</location>
+<sequence>0</sequence>
+<summary>Salon du Chocolat, The, Cafe et Saveurs du Monde</summary>
+<url uri="https://coffeebi.com/event/salon-du-chocolat-the-cafe-et-saveurs-du-monde/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2860@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories>SPONSORED</categories>
+<contact>Vertical Expo Services Co., Ltd.; 852-39043830; info@HKBakeryExpo.com;  http://www.hkbakeryexpo.com/general_info/en</contact>
+<description />
+<dtstart value="DATE">20161201</dtstart>
+<dtend value="DATE">20161204</dtend>
+<geo>+22.281125;+114.172984</geo>
+<location>Hongkong/SAR, China @ Hong Kong Convention And Exhibition Centre, 1 Harbour Rd, Wan Chai, Hong Kong</location>
+<sequence>0</sequence>
+<summary>Hong Kong International Bakery Expo (IBE)</summary>
+<url uri="https://coffeebi.com/event/hong-kong-international-bakery-expo-ibe/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;//coffeebi.com/wp-content/uploads/2016/07/IBE_logo-CMYK-2.jpg;800;550,medium;//coffeebi.com/wp-content/uploads/2016/07/IBE_logo-CMYK-2.jpg;800;550,large;//coffeebi.com/wp-content/uploads/2016/07/IBE_logo-CMYK-2.jpg;800;550,full;//coffeebi.com/wp-content/uploads/2016/07/IBE_logo-CMYK-2.jpg;800;550</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2194@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20161213</dtstart>
+<dtend value="DATE">20161221</dtend>
+<location>Kunming, China</location>
+<sequence>0</sequence>
+<summary>ASIC 2016 – Conf, on Coffee Sciences</summary>
+<url uri="https://coffeebi.com/event/asic-2016-conf-on-coffee-sciences/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1430@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.coffeechoco-expo.com/en/about-international-coffee-chocolate-exhibition_8.aspx</contact>
+<description></description>
+<dtstart value="DATE">20161220</dtstart>
+<dtend value="DATE">20161224</dtend>
+<geo>+23.885942;+45.079162</geo>
+<location>Saudi Arabia</location>
+<sequence>0</sequence>
+<summary>International Coffee &amp; Chocolate Exhibition 2016</summary>
+<url uri="https://coffeebi.com/event/international-coffee-chocolate-exhibition-2016/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2990@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Vienna Coffee Festival; info@viennacoffeefestival.cc; http://www.viennacoffeefestival.cc/</contact>
+<description>
+The festival will feature the best artisan coffee &amp; co., sustainable gourmet food stalls of Austria, tastings and demonstrations from world class baristas, interactive coffee workshops, coffee based cocktails, live music, DJs, craftsmanship, the SCAE Austria barista championship and much more.</description>
+<dtstart value="DATE">20170113</dtstart>
+<dtend value="DATE">20170117</dtend>
+<location>Ottakringer Brauerei @ Ottakringer Platz1, 1160 Vienna, Austria  DESCRIPTION</location>
+<sequence>0</sequence>
+<summary>Vienna Coffee Fest</summary>
+<url uri="https://coffeebi.com/event/vienna-coffee-fest/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/tasse_2016_2_over-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/tasse_2016_2_over-300x297.png;300;297;1,large;https://coffeebi.com/wp-content/uploads/2016/10/tasse_2016_2_over.png;523;518;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1434@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>ITALIAN EXHIBITION GROUP S.p.A.;  39 0541 744628; http://www.sigep.it/</contact>
+<description>Now in its 38th year, the event confirms its undisputed international leadership as trade fair for professional operators all over the world in the artisan gelato, pastry and baking sectors, together with that of coffee.
+An extraordinary showcase of everything new and trendy in the 4 supply chains. On show will be raw materials and ingredients through to plants and equipment, furnishings and services.
+SIGEP was launched on the suggestion of Italian gelato maker members of artisan associations, who wanted an expo to support their activity. Its story is characterized by an increasing success that began with its inauguration, on January 17th 1980.
+</description>
+<dtstart value="DATE">20170121</dtstart>
+<dtend value="DATE">20170126</dtend>
+<geo>+44.0726;+12.526308</geo>
+<location>Rimini Fiera @ Via Emilia, 155, 47922 Rimini RN, Italy</location>
+<sequence>0</sequence>
+<summary>SIGEP 2017</summary>
+<url uri="https://coffeebi.com/event/sigep-2017/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/b_2741_ffa3f323.jpg;100;100;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-2555@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170121</dtstart>
+<dtend value="DATE">20170126</dtend>
+<location>Lyon (FR)</location>
+<sequence>0</sequence>
+<summary>SIRHA</summary>
+<url uri="https://coffeebi.com/event/sirha/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2572@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170123</dtstart>
+<dtend value="DATE">20170126</dtend>
+<location>Birmingham, UK</location>
+<sequence>0</sequence>
+<summary>Great Hospitality Show</summary>
+<url uri="https://coffeebi.com/event/great-hospitality-show/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2273@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170206</dtstart>
+<dtend value="DATE">20170211</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Prod Expo</summary>
+<url uri="https://coffeebi.com/event/prod-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2864@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170215</dtstart>
+<dtend value="DATE">20170218</dtend>
+<location>Ethiopia</location>
+<sequence>0</sequence>
+<summary>African Fine Coffee Conference &amp; Exhibition</summary>
+<url uri="https://coffeebi.com/event/african-fine-coffee-conference-exhibition/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2275@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170228</dtstart>
+<dtend value="DATE">20170301</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>FoodService Moscow</summary>
+<url uri="https://coffeebi.com/event/foodservice-moscow/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2274@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170228</dtstart>
+<dtend value="DATE">20170304</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Ingridients Russia</summary>
+<url uri="https://coffeebi.com/event/ingridients-russia/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5618@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170302</dtstart>
+<dtend value="DATE">20170305</dtend>
+<location>Auckland, New Zealand</location>
+<sequence>0</sequence>
+<summary>Auckland Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/auckland-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4064@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Conference &amp; Exhibition Management Services Pte Ltd;  65 6278 8666; ca@cems.com.sg; http://www.cafeasia.com.sg/</contact>
+<description>Café Asia &amp; International Coffee and Tea Industry Expo:
+Get set for Café Asia &amp; International Coffee and Tea Industry Expo 2017!
+Café Asia 2017 will open its doors once again to the fast growing ASEAN Economic Community at
+Marina Bay Sands Convention Centre, Singapore from 2 to 4 March 2017.
+The giants of ASEAN (Indonesia, Malaysia, Thailand , Singapore, Philippines &amp; Vietnam) with a total combined population of 625 million and a combined growth of 5% annually, will be able to use Café Asia 2017, Singapore as the best platform for suppliers and exporters to showcase their coffee/tea commodities, beverages , accessories, equipment and supplies to the ASEAN buyers and beyond.
+So join us at Café Asia 2017, Singapore to expand your business and network with the new entrepreneurs in the Café &amp; Bakery Industry!!</description>
+<dtstart value="DATE">20170302</dtstart>
+<dtend value="DATE">20170305</dtend>
+<geo>+01.352083;+103.819836</geo>
+<location>Marina Bay Sands Singapore, Hall E @ Singapore</location>
+<sequence>0</sequence>
+<summary>Café Asia, 5th Edition</summary>
+<url uri="https://coffeebi.com/event/cafe-asia-5th-edition/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Asia-2017-Logo-300x118.png;300;118,medium;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Asia-2017-Logo-300x118.png;300;118,large;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Asia-2017-Logo-300x118.png;300;118,full;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Asia-2017-Logo-300x118.png;300;118</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-4378@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170302</dtstart>
+<dtend value="DATE">20170305</dtend>
+<location>Vietnam</location>
+<sequence>0</sequence>
+<summary>Cafe Show Vietnam 2017</summary>
+<url uri="https://coffeebi.com/event/cafe-show-vietnam-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2276@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170302</dtstart>
+<dtend value="DATE">20170305</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Russian Coffee &amp; Tea Industry Event</summary>
+<url uri="https://coffeebi.com/event/russian-coffee-tea-industry-event/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2865@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170304</dtstart>
+<dtend value="DATE">20170306</dtend>
+<location>The Address - Dubai Marina</location>
+<sequence>0</sequence>
+<summary>Dine Exhibition &amp; Conference 2017</summary>
+<url uri="https://coffeebi.com/event/dine-exhibition-conference-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1692@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170310</dtstart>
+<dtend value="DATE">20170313</dtend>
+<location>Amsterdam, Netherlands</location>
+<sequence>0</sequence>
+<summary>The Amsterdam Coffee Festival 2017</summary>
+<url uri="https://coffeebi.com/event/the-amsterdam-coffee-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4942@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170312</dtstart>
+<dtend value="DATE">20170315</dtend>
+<location>La Rochelle, France</location>
+<sequence>0</sequence>
+<summary>Salon – Comptoir’PRO – La Rochelle</summary>
+<url uri="https://coffeebi.com/event/salon-comptoirpro-la-rochelle/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-3952@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170313</dtstart>
+<dtend value="DATE">20170316</dtend>
+<location>Wisconsin Center, Milwaukee, USA</location>
+<sequence>0</sequence>
+<summary>Midwest Foodservice Expo</summary>
+<url uri="https://coffeebi.com/event/midwest-foodservice-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4971@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170315</dtstart>
+<dtend value="DATE">20170318</dtend>
+<location>Paris, France</location>
+<sequence>0</sequence>
+<summary>Vending Paris</summary>
+<url uri="https://coffeebi.com/event/vending-paris/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5760@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170315</dtstart>
+<dtend value="DATE">20170317</dtend>
+<location>Glasgow, Scotland</location>
+<sequence>0</sequence>
+<summary>ScotHot</summary>
+<url uri="https://coffeebi.com/event/scothot/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5621@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170316</dtstart>
+<dtend value="DATE">20170320</dtend>
+<location>Bangkok, Thailand</location>
+<sequence>0</sequence>
+<summary>Thailand Coffee Fest</summary>
+<url uri="https://coffeebi.com/event/thailand-coffee-fest/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2874@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170316</dtstart>
+<dtend value="DATE">20170319</dtend>
+<location>Singapore</location>
+<sequence>0</sequence>
+<summary>Cafe Asia – ICT EXPO 2017</summary>
+<url uri="https://coffeebi.com/event/cafe-asia-ict-expo-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14347@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170316</dtstart>
+<dtend value="DATE">20170319</dtend>
+<location>Baltimore, Usa</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Baltimore</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-baltimore/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2881@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170316</dtstart>
+<dtend value="DATE">20170320</dtend>
+<location>Bangkok</location>
+<sequence>0</sequence>
+<summary>Thailand Coffee, Tea &amp; Drinks</summary>
+<url uri="https://coffeebi.com/event/thailand-coffee-tea-drinks/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4649@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170317</dtstart>
+<dtend value="DATE">20170322</dtend>
+<location>Hamburg</location>
+<sequence>0</sequence>
+<summary>Internorga 2017</summary>
+<url uri="https://coffeebi.com/event/internorga-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1547@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170317</dtstart>
+<dtend value="DATE">20170320</dtend>
+<geo>+36.156608;-86.778491</geo>
+<location>Music City Center: Festival Hall A2 @ 201 5th Ave S, Nashville, TN 37203, USA</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Nashville 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-nashville-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5677@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170318</dtstart>
+<dtend value="DATE">20170320</dtend>
+<location>Tokyo, Japan</location>
+<sequence>0</sequence>
+<summary>Tokyo Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/tokyo-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1653@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170319</dtstart>
+<dtend value="DATE">20170321</dtend>
+<location>Brooklyn EXPO Center, NY</location>
+<sequence>0</sequence>
+<summary>Coffee and tea festival NYC 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-and-tea-festival-philly-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5630@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170321</dtstart>
+<dtend value="DATE">20170324</dtend>
+<location>Helsinki, Finland</location>
+<sequence>0</sequence>
+<summary>Helsinki coffee festival</summary>
+<url uri="https://coffeebi.com/event/helsinki-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2693@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170323</dtstart>
+<dtend value="DATE">20170326</dtend>
+<location>Romania</location>
+<sequence>0</sequence>
+<summary>GastroPan 2017</summary>
+<url uri="https://coffeebi.com/event/gastropan-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1699@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170325</dtstart>
+<dtend value="DATE">20170327</dtend>
+<geo>+35.082422;-106.572627</geo>
+<location>Expo New Mexico @ 300 San Pedro Dr NE, Albuquerque, NM 87108, USA</location>
+<sequence>0</sequence>
+<summary>Southwest Chocolate and Coffee Fest in Albuquerque 2017</summary>
+<url uri="https://coffeebi.com/event/1699/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5056@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170328</dtstart>
+<dtend value="DATE">20170401</dtend>
+<location>Shanghai</location>
+<sequence>0</sequence>
+<summary>Hotelex Shanghai 2017</summary>
+<url uri="https://coffeebi.com/event/hotelex-shanghai-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2277@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170329</dtstart>
+<dtend value="DATE">20170401</dtend>
+<location>Tashkent, Uzbekistan</location>
+<sequence>0</sequence>
+<summary>WorldFood Uzbekistan</summary>
+<url uri="https://coffeebi.com/event/worldfood-uzbekistan/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2868@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170330</dtstart>
+<dtend value="DATE">20170402</dtend>
+<location>Australia</location>
+<sequence>0</sequence>
+<summary>MELBOURNE SHOWGROUNDS 2017</summary>
+<url uri="https://coffeebi.com/event/melbourne-showgrounds/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2211@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170406</dtstart>
+<dtend value="DATE">20170410</dtend>
+<location>Coex, Seoul, Korea</location>
+<sequence>0</sequence>
+<summary>Coffee Expo Seoul 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-expo-seoul-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1698@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170406</dtstart>
+<dtend value="DATE">20170410</dtend>
+<geo>+51.520227;-0.073101</geo>
+<location>OLD TRUMAN BREWERY, BRICK LANE @ Hanbury St, London E1 6QR, UK</location>
+<sequence>0</sequence>
+<summary>The London Coffee Festival 2017</summary>
+<url uri="https://coffeebi.com/event/the-london-coffee-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5534@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170408</dtstart>
+<dtend value="DATE">20170410</dtend>
+<geo>+43.641154;-79.42275</geo>
+<location>Toronto, Canada</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Tea Expo</summary>
+<url uri="https://coffeebi.com/event/coffee-tea-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5425@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170412</dtstart>
+<dtend value="DATE">20170414</dtend>
+<location>Parma, Italy</location>
+<sequence>0</sequence>
+<summary>Cibus</summary>
+<url uri="https://coffeebi.com/event/cibus/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5526@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Mr. Mitesh, Project Director;  91 9820503876; mitesh@sentinelexhibitionsasia.com; http://www.worldteacoffeeexpo.com/</contact>
+<description>The World Tea &amp; Coffee Expo (WTCE) was launched in 2013 to offer an organized avenue for all the industry stakeholders to come together under a single roof for networking, business expansion and ideas exchange. Cutting through a plethora of food and food processing shows and focusing purely on the Tea, Coffee &amp; allied sectors, the Expo has established itself as the official, globally recognized Industry show with just four editions under its belt.
+Show Highlights: Country &amp; Tea/Coffee Board pavilions &amp; buyers from UAE, UK, Italy, USA, Sri Lanka, China, Nepal, Iran, Russia and many more planned. WTCE Mumbai India is the catalyst for companies to expand presence in India. Launch of latest technology and innovative products/retail chains, Bulk Orders, Appointing of Distributors etc at Expo ensures substantial interest from potential business associates with display of International and Indian innovations. This annual Expo determines trends related to the entire spectrum of the Hot Beverage sector.</description>
+<dtstart value="DATE">20170416</dtstart>
+<dtend value="DATE">20170419</dtend>
+<location>Mumbai INDIA</location>
+<sequence>0</sequence>
+<summary>World Tea &amp; Coffee at Mumbai INDIA</summary>
+<url uri="https://coffeebi.com/event/5526/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/WTCE-Logo-Both-lr-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/WTCE-Logo-Both-lr-300x300.jpg;300;300;1,large;https://coffeebi.com/wp-content/uploads/2016/10/WTCE-Logo-Both-lr.jpg;840;840;,full;https://coffeebi.com/wp-content/uploads/2016/10/WTCE-Logo-Both-lr.jpg;1024;1024;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-4961@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170420</dtstart>
+<dtend value="DATE">20170424</dtend>
+<location>Seattle W.A.</location>
+<sequence>0</sequence>
+<summary>Global Specialty Coffee Expo</summary>
+<url uri="https://coffeebi.com/event/global-specialty-coffee-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11224@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170421</dtstart>
+<dtend value="DATE">20170426</dtend>
+<location>Florence, Italy</location>
+<sequence>0</sequence>
+<summary>Gelato Festival 2017</summary>
+<url uri="https://coffeebi.com/event/gelato-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2859@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Koelnmesse Srl;   39 02 8696131; info@koelnmesse.it; https://servedby.flashtalking.com/click/2/73079;2335542;369307;211;0/?ft_width=1&amp;ft_height=1&amp;url=13772835</contact>
+<description>
+Eu’Vend &amp; coffeena is the leading international trade fair for this exciting industry, situated at the heart of the European market. The entire industry meets here at one location for automated sales solutions, professional coffee systems, coffee, hot and cold beverages, snacks and filling products, multi-payment solutions, cups and services. The most important innovations are presented and the trends of the future are defined here.
+Around 200 exhibitors from 25 countries. More than 5,000 trade visitors from 59 nations, 88 % of them decision makers. 13,500 m² full of innovations, potential partners, business opportunities and brilliant future prospects: Eu’Vend &amp; coffeena is the industry benchmark and an obligatory date for any branch participant.</description>
+<dtstart value="DATE">20170427</dtstart>
+<dtend value="DATE">20170430</dtend>
+<geo>+50.945271;+6.979328</geo>
+<location>Cologne, Germany @ Messepl. 1, 50679 Köln, Germany</location>
+<sequence>0</sequence>
+<summary>Coffeena 2017</summary>
+<url uri="https://coffeebi.com/event/coffeena/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;//coffeebi.com/wp-content/uploads/2016/07/Coffeena-2.jpg;200;89,medium;//coffeebi.com/wp-content/uploads/2016/07/Coffeena-2.jpg;200;89,large;//coffeebi.com/wp-content/uploads/2016/07/Coffeena-2.jpg;200;89,full;//coffeebi.com/wp-content/uploads/2016/07/Coffeena-2.jpg;200;89</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-11239@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170429</dtstart>
+<dtend value="DATE">20170502</dtend>
+<location>Rome, Italy</location>
+<sequence>0</sequence>
+<summary>Gelato Festival 2017</summary>
+<url uri="https://coffeebi.com/event/gelato-festival-2017-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4062@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Conference &amp; Exhibition Management Services Pte Ltd;  65 6278 8666; ca@cems.com.sg; http://www.cafe-cambodia.com/</contact>
+<description>THE FIRST CAFE &amp; FRANCHISING EVENT LANDS IN CAMBODIA!
+Cafe Cambodia and Franchise &amp; Licensing Cambodia 2017 will present the most comprehensive gathering of cafe and franchise industry players to showcase equipment, machinery, accessories, various supplies and products for the effective and ideal functioning of cafe businesses in Cambodia. It is a one-stop convenient hub for professionals to source for supplies and explore business opportunities with both regional and international counterparts.
+These 2 co-located shows are also the first ever dedicated events on the region’s café, coffee and tea, baking and franchise industries in Cambodia.
+As the premier trade and consumer exhibition in Southeast Asia catering to the café, coffee and tea communities, Cafe Camboda and Franchise &amp; Licensing Cambodia will bring together café owners and managers, coffee and tea exporters and importers as well as distributors and suppliers of café-related machinery and equipment in a dynamic marketplace.
+ </description>
+<dtstart value="DATE">20170504</dtstart>
+<dtend value="DATE">20170507</dtend>
+<geo>+11.544873;+104.892167</geo>
+<location>Koh Pich (Diamond Island) Convention and Exhibition Center @ Phnom Penh, Cambodia</location>
+<sequence>0</sequence>
+<summary>Café Cambodia</summary>
+<url uri="https://coffeebi.com/event/cafe-cambodia/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Cambodia-2017-Logo-1-300x110.png;300;110,medium;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Cambodia-2017-Logo-1-300x110.png;300;110,large;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Cambodia-2017-Logo-1-300x110.png;300;110,full;//coffeebi.com/wp-content/uploads/2016/10/Cafe-Cambodia-2017-Logo-1-300x110.png;300;110</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-5601@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170504</dtstart>
+<dtend value="DATE">20170511</dtend>
+<location>Düsseldorf, Germany</location>
+<sequence>0</sequence>
+<summary>Interpack</summary>
+<url uri="https://coffeebi.com/event/interpack/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4063@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description>“The first ever Malaysia Coffee Fest will celebrate everything that is wonderful about Malaysia’s vibrant coffee culture. From top class baristas to talented local artisan roasters, to fiercely independent coffee shops and more, it will all happen right here in Kuala Lumpur from 5 to 7 May 2017. The iconic Kuala Lumpur Convention Centre (KLCC) will take center stage as the venue of the inaugural Malaysia Coffee Fest 2017.”</description>
+<dtstart value="DATE">20170505</dtstart>
+<dtend value="DATE">20170508</dtend>
+<geo>+03.17023;+101.667532</geo>
+<location>Kuala Lumpur, Malaysia @ Jalan Dutamas 1, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</location>
+<sequence>0</sequence>
+<summary>Malaysia Coffee Fest</summary>
+<url uri="https://coffeebi.com/event/malaysia-coffee-fest/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/MCF-Logo_FinalOutline-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/MCF-Logo_FinalOutline-300x294.png;300;294;1</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-1436@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.tuttofood.it/it</contact>
+<description></description>
+<dtstart value="DATE">20170508</dtstart>
+<dtend value="DATE">20170512</dtend>
+<geo>+45.519144;+9.078144</geo>
+<location>Fiera Milano @ Strada Statale 33 del Sempione, 28, 20017 Rho MI, Italy</location>
+<sequence>0</sequence>
+<summary>TuttoFood 2017</summary>
+<url uri="https://coffeebi.com/event/tuttofood-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11632@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170508</dtstart>
+<dtend value="DATE">20170509</dtend>
+<location>Madrid, Spain</location>
+<sequence>0</sequence>
+<summary>VENDIBÉRICA 2017</summary>
+<url uri="https://coffeebi.com/event/vendiberica-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4487@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>EXPOGROUP WORLDWIDE;  971-4-3721421 ; feedback@expogr.com ; http://www.expogr.com/ethiopia/foodexpo/</contact>
+<description>Ethiopia’s premier Food, Hotel &amp; Agriculture exhibition returns to Addis Ababa from 12 – 14 May, 2017. FOODAGRO AFRICA 2017 will showcase top products, equipment and machinery presented by exhibitors from over 20 countries.
+Building on the success of previous events, the FOODAGRO AFRICA 2017 just gets bigger and better. Also contributing is the recognition of Ethiopia as one of the major access point in Africa and the huge volume of imports in the country for its own consumption for over 40 million consumers. Last year, Ethiopia imported goods valued at $200 million and re-exported goods worth $520 million.
+An enticing mix of consumer interaction and industry presence, the show boasts not only the highest attendance per day, but also the highest business dealings per individual. The number of exhibitors and visitors in 2017 is expected to rise by at least 20% since an aggressive campaign has been launched while celebrating the event’s 20th birthday. Trade visitors from all over East &amp; Central Africa are being invited directly and in collaboration with several regional trade bodies in Ethiopia, Tanzania, Ethiopia, Uganda, Somalia, Mozambique &amp; Congo.
+This year’s show has an exciting line-up of both local and international companies and is an ideal platform for product launches, finding new buyers &amp; distributors, promoting brand names &amp; image, updating existing customers and updating oneself with the latest in the industry. The FOODAGRO AFRICA 2017 is the place to learn more about what’s new on the food, hotel, kitchen &amp; agriculture scene and present your own products to consumers and potential clients. The experience and comments of exhibitors at previous events indicate substantial gains from unexpected foreign visitors and we strongly feel that a rise in such statistics would ensure business, especially for the foreign participants, who form almost 80 – 85% of the exhibition.</description>
+<dtstart value="DATE">20170512</dtstart>
+<dtend value="DATE">20170515</dtend>
+<geo>+08.980603;+38.757761</geo>
+<location>Millennium Hall, Addis Ababa, Ethiopia @ Addis Ababa, Ethiopia</location>
+<sequence>0</sequence>
+<summary>01st FOODAGRO ETHIOPIA 2017</summary>
+<url uri="https://coffeebi.com/event/01st-foodagro-ethiopia-2017/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/12/foodAgro-Ethiopia-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/12/foodAgro-Ethiopia.jpg;200;200;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-5812@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170512</dtstart>
+<dtend value="DATE">20170515</dtend>
+<location>London England</location>
+<sequence>0</sequence>
+<summary>Balance Festival</summary>
+<url uri="https://coffeebi.com/event/balance-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11623@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170516</dtstart>
+<dtend value="DATE">20170519</dtend>
+<location>Bucharest - Romania.</location>
+<sequence>0</sequence>
+<summary>Vending Expo Romania 2017</summary>
+<url uri="https://coffeebi.com/event/vending-expo-romania-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4482@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170517</dtstart>
+<dtend value="DATE">20170520</dtend>
+<location>Expocentre - Baku</location>
+<sequence>0</sequence>
+<summary>World food 2017</summary>
+<url uri="https://coffeebi.com/event/world-food-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2861@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170523</dtstart>
+<dtend value="DATE">20170525</dtend>
+<location>Olympia Exhibition Centre London</location>
+<sequence>0</sequence>
+<summary>Caffe Culture Show</summary>
+<url uri="https://coffeebi.com/event/caffe-culture-show/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11240@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170525</dtstart>
+<dtend value="DATE">20170529</dtend>
+<location>Turin, Italy</location>
+<sequence>0</sequence>
+<summary>Gelato Festival 2017</summary>
+<url uri="https://coffeebi.com/event/gelato-festival-2017-3/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4483@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170530</dtstart>
+<dtend value="DATE">20170602</dtend>
+<location>Korme Expo Centre - Astana</location>
+<sequence>0</sequence>
+<summary>Interfood 2017</summary>
+<url uri="https://coffeebi.com/event/interfood-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2882@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170531</dtstart>
+<dtend value="DATE">20170605</dtend>
+<location>Bangkok, Thailand</location>
+<sequence>0</sequence>
+<summary>World of Coffee &amp; Tea</summary>
+<url uri="https://coffeebi.com/event/world-of-coffee-tea-3/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11242@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170601</dtstart>
+<dtend value="DATE">20170605</dtend>
+<location>Milan, Italy</location>
+<sequence>0</sequence>
+<summary>Gelato Festival 2017</summary>
+<url uri="https://coffeebi.com/event/gelato-festival-2017-4/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4486@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>EXPOGROUP WORLDWIDE;  971-4-3721421 ; feedback@expogr.com ; http://www.expogr.com/kenyafood/</contact>
+<description>FOODAGRO is one of the most important exhibition in food trade sector in East Africa, serving the industry needs for last 19 years and plays a vital role in accelerating and streamlining the pace of change. It provides an ideal platform for exporters catering the sector for showcasing their products and capabilities.
+The trade event is aiming to be an ideal platform for product launches, finding new buyers &amp; distributors, promoting brand names &amp; image, updating existing customers and updating oneself with the latest in the industry. The FOODAGRO AFRICA 2017 is the place to learn more about what’s new on the food, hotel, kitchen &amp; agriculture scene and present your own products to consumers and potential clients.</description>
+<dtstart value="DATE">20170602</dtstart>
+<dtend value="DATE">20170605</dtend>
+<geo>-01.292066;+36.821946</geo>
+<location>Kenyatta International Conference Centre (KICC)  @ Harambee Ave, Nairobi City, Kenya</location>
+<sequence>0</sequence>
+<summary>20th FOODAGRO KENYA 2017</summary>
+<url uri="https://coffeebi.com/event/20th-foodagro-kenya-2017/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/12/kenyafood-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/12/kenyafood-300x64.jpg;300;64;1,large;https://coffeebi.com/wp-content/uploads/2016/12/kenyafood-1024x217.jpg;840;178;1,full;https://coffeebi.com/wp-content/uploads/2016/12/kenyafood.jpg;1915;406;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-4939@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170604</dtstart>
+<dtend value="DATE">20170607</dtend>
+<location>Lisbon</location>
+<sequence>0</sequence>
+<summary>Alimentria &amp; Horexpo</summary>
+<url uri="https://coffeebi.com/event/alimentria-horexpo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2863@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170606</dtstart>
+<dtend value="DATE">20170610</dtend>
+<location>Expo Center Norte, Sao Paulo, Brazil</location>
+<sequence>0</sequence>
+<summary>Fispal Café 2017</summary>
+<url uri="https://coffeebi.com/event/fispal-cafe-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1695@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170609</dtstart>
+<dtend value="DATE">20170612</dtend>
+<geo>+41.878114;-87.629798</geo>
+<location>Navy Pier @ Chicago, IL, USA</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Chicago 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-chicago-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11457@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170612</dtstart>
+<dtend value="DATE">20170615</dtend>
+<geo>+47.492896;+19.127785</geo>
+<location>Budapest, Hungary @ Budapest, Albertirsai út 10, 1101 Hungary</location>
+<sequence>0</sequence>
+<summary>World of Coffee Budapest</summary>
+<url uri="https://coffeebi.com/event/world-coffee-budapest/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2260@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170613</dtstart>
+<dtend value="DATE">20170616</dtend>
+<location>Budapest</location>
+<sequence>0</sequence>
+<summary>Hungexpo 2017</summary>
+<url uri="https://coffeebi.com/event/hungexpo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13401@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170710</dtstart>
+<dtend value="DATE">20170713</dtend>
+<location>Medellin, Colombia</location>
+<sequence>0</sequence>
+<summary>World Coffee Producers Forum</summary>
+<url uri="https://coffeebi.com/event/world-coffee-producers-forum/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4488@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>EXPOGROUP WORLDWIDE;  971-4-3721421 ; feedback@expogr.com ; http://www.expogr.com/tanzania/foodexpo</contact>
+<description>FOODAGRO is one of the most important exhibition in food trade sector in East Africa, serving the industry needs for last 19 years and plays a vital role in accelerating and streamlining the pace of change. It provides an ideal platform for exporters catering the sector for showcasing their products and capabilities.
+The trade event is aiming to be an ideal platform for product launches, finding new buyers &amp; distributors, promoting brand names &amp; image, updating existing customers and updating oneself with the latest in the industry. The FOODAGRO AFRICA 2017 is the place to learn more about what’s new on the food, hotel, kitchen &amp; agriculture scene and present your own products to consumers and potential clients.</description>
+<dtstart value="DATE">20170822</dtstart>
+<dtend value="DATE">20170825</dtend>
+<geo>-06.792354;+39.208328</geo>
+<location>Mlimani Conference Centre (MCC)   @ Dar es Salaam, Tanzania</location>
+<sequence>0</sequence>
+<summary>20th FOODAGRO TANZANIA 2017</summary>
+<url uri="https://coffeebi.com/event/20th-foodagro-tanzania-2017/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/12/Food-logo-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/12/Food-logo-300x125.jpg;300;125;1,large;https://coffeebi.com/wp-content/uploads/2016/12/Food-logo.jpg;500;209;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-11624@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170830</dtstart>
+<dtend value="DATE">20170902</dtend>
+<location>Beijing - China.</location>
+<sequence>0</sequence>
+<summary>China International Vending &amp; OCS Showcase 2017</summary>
+<url uri="https://coffeebi.com/event/china-international-vending-ocs-showcase-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5664@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170831</dtstart>
+<dtend value="DATE">20170903</dtend>
+<location>Mexico City, Mexico</location>
+<sequence>0</sequence>
+<summary>Expo Café – 20th Edition</summary>
+<url uri="https://coffeebi.com/event/expo-cafe-20th-edition/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14365@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170904</dtstart>
+<dtend value="DATE">20170905</dtend>
+<location>Três Pontas, Brasil</location>
+<sequence>0</sequence>
+<summary>TriestEspresso</summary>
+<url uri="https://coffeebi.com/event/triestespresso-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5890@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Guangdong Xinji Huazhan Exhibition Co.,Ltd.; http://en.hosfair.com/</contact>
+<description>HOSFAIR has been successfully held for 14 years under the support of all sectors of society.
+The fair will be larger and better. It has become one of the fairs that develops fastest with highest internationalization and best effect, which gains great reputation in hotel supplies industry and hotel and catering industry.</description>
+<dtstart value="DATE">20170908</dtstart>
+<dtend value="DATE">20170911</dtend>
+<geo>+23.132191;+113.266531</geo>
+<location>Import &amp; Export Fair Complex  @ Guangdong, China</location>
+<sequence>0</sequence>
+<summary>HOSFAIR</summary>
+<url uri="https://coffeebi.com/event/hosfair/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/HOSFAIR-160X60-150x60.gif;150;60;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/HOSFAIR-160X60.gif;160;60;</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-14377@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170908</dtstart>
+<dtend value="DATE">20170909</dtend>
+<location>Jakarta, Indonesia</location>
+<sequence>0</sequence>
+<summary>Café &amp; Brasserie Indonesia</summary>
+<url uri="https://coffeebi.com/event/cafe-brasserie-indonesia/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11892@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170911</dtstart>
+<dtend value="DATE">20170915</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>World Food Moscow</summary>
+<url uri="https://coffeebi.com/event/world-food-moscow/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11631@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170912</dtstart>
+<dtend value="DATE">20170914</dtend>
+<location>Birmingham - United Kingdom.</location>
+<sequence>0</sequence>
+<summary>AVEX 2017</summary>
+<url uri="https://coffeebi.com/event/avex-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13438@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Andrew Bowen ; 07736 950673; andrew@coffeepreneurs.co.uk; https://www.coffeeshopbootcamp.com/</contact>
+<description>The world’s first Coffee Shop Bootcamp, in association with Union Hand-Roasted Coffee. John Richardson and Andrew &amp; Claire Bowen have worked together to bring together their knowledge, experience and passion for giving coffee shop start-ups an easy way to open successfully and be profitable.
+The Coffee Shop Bootcamp will be held in London over three days from 20th September 2017. It will cover everything from developing your niche to location, funding, property, design, suppliers, menu, people, marketing and profit maximisation.</description>
+<dtstart value="DATE">20170920</dtstart>
+<dtend value="DATE">20170923</dtend>
+<location>London, UK</location>
+<sequence>0</sequence>
+<summary>The Coffee Shop Bootcamp</summary>
+<url uri="https://coffeebi.com/event/coffee-shop-bootcamp/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2017/07/The-Coffee-Shop-Bootcamp-300x171.jpg;300;171,medium;https://coffeebi.com/wp-content/uploads/2017/07/The-Coffee-Shop-Bootcamp-300x171.jpg;300;171,large;https://coffeebi.com/wp-content/uploads/2017/07/The-Coffee-Shop-Bootcamp-300x171.jpg;300;171,full;https://coffeebi.com/wp-content/uploads/2017/07/The-Coffee-Shop-Bootcamp-300x171.jpg;300;171</x-wp-images-url>
+<x-tags language="en-GB">Andrew &amp;amp; Claire Bowen,Coffee Shop Bootcamp,John Richardson,London,Union Hand-Roasted Coffee</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-5553@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170924</dtstart>
+<dtend value="DATE">20170926</dtend>
+<geo>+43.691063;-79.578133</geo>
+<location>Toronto, Canada @ 650 Dixon Rd, Etobicoke, ON M9W 1J1, Canada</location>
+<sequence>0</sequence>
+<summary>The Canadian Coffee and Tea</summary>
+<url uri="https://coffeebi.com/event/canadian-coffee-tea/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14213@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170925</dtstart>
+<dtend value="DATE">20170930</dtend>
+<location>Yamoussoukro, Côte d’Ivoire</location>
+<sequence>0</sequence>
+<summary>International Coffee Council</summary>
+<url uri="https://coffeebi.com/event/international-coffee-council/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13669@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Luke Page (Event Director); 0117 929 6085; Luke.Page@prysmgroup.co.uk; http://www.cafebusinessshow.co.uk/tracker.asp?code=CoffeeBI</contact>
+<description>Coffee Shop Innovation Expo is THE only event dedicated to helping professionals working across the café, coffee shop and catering industries to grow their business. 
+Discover how to build your coffee shop empire by taking advantage of the show’s amazing line-up, including over 200 of the most cutting-edge suppliers, interactive features, unparalleled networking opportunities, 1-2-1 expert advice, 150 seminars led by the industry’s most influential coffee shop business experts and much more! The show is Free to attend, please visit the website to register for your Free ticket!
+</description>
+<dtstart value="DATE">20170926</dtstart>
+<dtend value="DATE">20170928</dtend>
+<geo>+51.508108;+0.030343</geo>
+<location>ExCeL Royal Victoria Dock @ 1 Western Gateway, London E16 1XL, UK</location>
+<sequence>0</sequence>
+<summary>Coffee Shop Innovation Expo</summary>
+<url uri="https://coffeebi.com/event/coffee-shop-innovation/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/cafe-300x84.png;300;84,medium;https://coffeebi.com/wp-content/uploads/2016/10/cafe-300x84.png;300;84,large;https://coffeebi.com/wp-content/uploads/2016/10/cafe-300x84.png;300;84,full;https://coffeebi.com/wp-content/uploads/2016/10/cafe-300x84.png;300;84</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-14214@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170929</dtstart>
+<dtend value="DATE">20171002</dtend>
+<sequence>0</sequence>
+<summary>International Coffee Day</summary>
+<url uri="https://coffeebi.com/event/international-coffee-day/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1766@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170929</dtstart>
+<dtend value="DATE">20171002</dtend>
+<location>New York, NY, USA</location>
+<sequence>0</sequence>
+<summary>New York Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/1766/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5665@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170930</dtstart>
+<dtend value="DATE">20171003</dtend>
+<location>Athens, Greece</location>
+<sequence>0</sequence>
+<summary>Athens Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/athens-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14280@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20170930</dtstart>
+<dtend value="DATE">20171001</dtend>
+<location>Oslo, Norway</location>
+<sequence>0</sequence>
+<summary>Kaffikaze Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/kaffikaze-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14382@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171006</dtstart>
+<dtend value="DATE">20171008</dtend>
+<location>Chicago, Usa</location>
+<sequence>0</sequence>
+<summary>CoffeeCon</summary>
+<url uri="https://coffeebi.com/event/coffeecon/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4946@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171007</dtstart>
+<dtend value="DATE">20171012</dtend>
+<location>Cologne, Germany</location>
+<sequence>0</sequence>
+<summary>Anuga – Taste The Future</summary>
+<url uri="https://coffeebi.com/event/anuga-taste-future/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11401@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171009</dtstart>
+<dtend value="DATE">20171013</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Pir Expo</summary>
+<url uri="https://coffeebi.com/event/pirexpo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14380@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171013</dtstart>
+<dtend value="DATE">20171016</dtend>
+<location>Oregon, Usa</location>
+<sequence>0</sequence>
+<summary>Coffee Fest – Portland 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-portland-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13879@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171013</dtstart>
+<dtend value="DATE">20171016</dtend>
+<location>Nairobi, Kenya</location>
+<sequence>0</sequence>
+<summary>Food &amp; Beverages – Food &amp; Hospitality</summary>
+<url uri="https://coffeebi.com/event/food-beverages-food-hospitality/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14383@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171013</dtstart>
+<dtend value="DATE">20171016</dtend>
+<location>New York, Usa</location>
+<sequence>0</sequence>
+<summary>The New York Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/new-york-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14384@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171014</dtstart>
+<dtend value="DATE">20171015</dtend>
+<location>Omaha, Usa</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Donut Festival Omaha 2017</summary>
+<url uri="https://coffeebi.com/event/coffee-donut-festival-omaha-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2926@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171020</dtstart>
+<dtend value="DATE">20171025</dtend>
+<location>Milano, Italy</location>
+<sequence>0</sequence>
+<summary>Host Milano</summary>
+<url uri="https://coffeebi.com/event/host-milano/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11634@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Rosy Mazzanti – Simone Zavettieri;  39 02.4997.7457 ; press.host@fieramilano.it; http://host.fieramilano.it/</contact>
+<description>
+– The 40th edition of Host will take place at FieraMilano, Rho, from 20 to 24 October 2017.
+– The five-day event, which takes place every two years at Fiera Milano Rho, is organised in the following three macro-areas: Foodservice Equipment, with Bread, Pizza, Pasta; Coffee Tea, with Bar Coffee machines Vending, Gelato Pastry; Furniture Tableware.
+– Over 1500 companies (41% from 48 foreign countries) have confirmed their presence, less than a year on from the official inauguration. As for the countries with the largest presence, on the podium we have Germany with 86 companies ( 26%, compared to 68 in 2014), followed by Spain, France and USA (with an outstanding  47%), United Kingdom, Greece, Switzerland, Netherlands, Portugal, Austria and Sweden.
+– This year, there are three target areas: USA, Canada and the Middle East. Activities will be implemented in these areas to attract visitors also through agreements with authoritative associations.
+– Over 1,500 hosted buyers will be attending the event. Thanks to increasing investments in profiling and the collaboration with ITA – Italian Trade Agency – there will be new participants and an ever-growing array of products.
+– The over € 2 million media campaign includes visibility in major international publications, and will bring over 1,000 international journalists to Host 2017, including 100 correspondents who will also visit Milan and the rest of Italy.
+For further information, visit www.host.fieramilano.it/en, @HostMilano, #Host2017 and the HostMilano social channels on Facebook, Twitter and Instagram.</description>
+<dtstart value="DATE">20171020</dtstart>
+<dtend value="DATE">20171025</dtend>
+<location>Milan, Italy</location>
+<sequence>0</sequence>
+<summary>HostMilano 2017</summary>
+<url uri="https://coffeebi.com/event/hostmilano/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2017/05/Banner-Host2017_400x150_ENG-300x113.gif;300;113,medium;https://coffeebi.com/wp-content/uploads/2017/05/Banner-Host2017_400x150_ENG-300x113.gif;300;113,large;https://coffeebi.com/wp-content/uploads/2017/05/Banner-Host2017_400x150_ENG-300x113.gif;300;113,full;https://coffeebi.com/wp-content/uploads/2017/05/Banner-Host2017_400x150_ENG-300x113.gif;300;113</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-14385@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171022</dtstart>
+<dtend value="DATE">20171023</dtend>
+<location>New Orleans, Usa</location>
+<sequence>0</sequence>
+<summary>The Big TEAsy Caffeine Festival 2017</summary>
+<url uri="https://coffeebi.com/event/big-teasy-caffeine-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4484@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171025</dtstart>
+<dtend value="DATE">20171028</dtend>
+<location>Kyiv, Ukraine</location>
+<sequence>0</sequence>
+<summary>WorldFood Ukraine 2017</summary>
+<url uri="https://coffeebi.com/event/worldfood-ukraine-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-5597@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171101</dtstart>
+<dtend value="DATE">20171104</dtend>
+<location>Dubai, United Arab Enitates</location>
+<sequence>0</sequence>
+<summary>International Coffee Tea and Fest</summary>
+<url uri="https://coffeebi.com/event/international-coffee-tea-fest/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14386@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171103</dtstart>
+<dtend value="DATE">20171113</dtend>
+<location>Kailua-Kona, HI, Usa</location>
+<sequence>0</sequence>
+<summary>Kona Coffee Cultural Festival 2017</summary>
+<url uri="https://coffeebi.com/event/kona-coffee-cultural-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14388@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171103</dtstart>
+<dtend value="DATE">20171106</dtend>
+<sequence>0</sequence>
+<summary>Mr Black Espresso Martini Festival 2017</summary>
+<url uri="https://coffeebi.com/event/mr-black-espresso-martini-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14387@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171104</dtstart>
+<dtend value="DATE">20171105</dtend>
+<location>Milwaukee, WI, Usa</location>
+<sequence>0</sequence>
+<summary>Milwaukee Coffee Festival 2017</summary>
+<url uri="https://coffeebi.com/event/milwaukee-coffee-festival-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14389@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171105</dtstart>
+<dtend value="DATE">20171106</dtend>
+<location>Denver, CO, Usa</location>
+<sequence>0</sequence>
+<summary>Colorado Coffee Festival &amp; Expo 2017</summary>
+<url uri="https://coffeebi.com/event/colorado-coffee-festival-expo-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13877@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171105</dtstart>
+<dtend value="DATE">20171109</dtend>
+<location>Venice, Italy</location>
+<sequence>0</sequence>
+<summary>For Horeca di Venezia Expo</summary>
+<url uri="https://coffeebi.com/event/horeca-di-venezia-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2570@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact> 82-2-6000-6687; info@cafeshow.com; http://www.cafeshow.com/eng/main.asp</contact>
+<description>Cafe Show is the No.1 coffee event in Asia where the industry, knowledge and culture combined within it. We generate global business of F&amp;B industries and gathers point of knowledge exchange between global coffee leaders and professionals. Also, it is the best place to experience global F&amp;B trend and culture. You can find the ‘Cafe Show Worldwide Brand’ in Seoul, Ho Chi Minh City, Beijing, Shanghai.
+ 
+*This year, World Barista Championship(WBC) sanctioned by World Coffee Events(WCE) will be held in The 16th int’l Seoul Cafe Show 2017
+Exhibit Items: Coffee, Tea, Bakery, Dessert, Ice-cream, Chocolate, Beverage, Raw Material, Machine &amp; Equipment, Interior, Franchise &amp; Start-up, Kitchen Appliances, Food Service Industry.</description>
+<dtstart value="DATE">20171109</dtstart>
+<dtend value="DATE">20171113</dtend>
+<geo>+37.566535;+126.977969</geo>
+<location>Hall A, B, C, D (824m2), COEX, Seoul, Korea @ Seoul, South Korea</location>
+<sequence>0</sequence>
+<summary>Cafe Show 2017</summary>
+<url uri="https://coffeebi.com/event/cafe-show/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/1.-Type-A_Sub2-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/1.-Type-A_Sub2-225x300.png;225;300;1,large;https://coffeebi.com/wp-content/uploads/2016/10/1.-Type-A_Sub2-769x1024.png;769;1024;1,full;https://coffeebi.com/wp-content/uploads/2016/10/1.-Type-A_Sub2-e1496833509970.png;200;266;</x-wp-images-url>
+<x-tags language="en-GB">Cafex 2017,Coffee Events,Exhibitions</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-4960@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171111</dtstart>
+<dtend value="DATE">20171116</dtend>
+<location>Paris, France</location>
+<sequence>0</sequence>
+<summary>Equip Hotel Paris</summary>
+<url uri="https://coffeebi.com/event/equip-hotel-paris/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4956@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171115</dtstart>
+<dtend value="DATE">20171118</dtend>
+<location>Kraków, Poland</location>
+<sequence>0</sequence>
+<summary>Gastrofood</summary>
+<url uri="https://coffeebi.com/event/gastrofood/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11545@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171116</dtstart>
+<dtend value="DATE">20171119</dtend>
+<location>Bombay Exhibition Centre, Goregaon (East), Mumbai, India</location>
+<sequence>0</sequence>
+<summary>World Tea Coffee Expo</summary>
+<url uri="https://coffeebi.com/event/world-tea-coffee-expo-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4950@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171118</dtstart>
+<dtend value="DATE">20171123</dtend>
+<location>Basel Switzerland</location>
+<sequence>0</sequence>
+<summary>Igeho</summary>
+<url uri="https://coffeebi.com/event/igeho/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1778@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171120</dtstart>
+<dtend value="DATE">20171123</dtend>
+<location>Warsaw, Poland</location>
+<sequence>0</sequence>
+<summary>Allegra European Coffee Symposium</summary>
+<url uri="https://coffeebi.com/event/allegra-european-coffee-symposium/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2869@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories>SPONSORED</categories>
+<contact> 86-21-6162-1009; cafeex_hong@yeah.net; http://www.cafeex.com.cn/2017/</contact>
+<description></description>
+<dtstart value="DATE">20171124</dtstart>
+<dtend value="DATE">20171127</dtend>
+<geo>+31.119735;+121.551313</geo>
+<location>Shanghai World Expo Exhibition  Convention Center (SWEECC) @ 342, 3058 Pu San Lu, Pudong Xinqu, Shanghai Shi, China</location>
+<sequence>0</sequence>
+<summary>Cafeex  2017</summary>
+<url uri="https://coffeebi.com/event/cafe-expo-shanghai-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14381@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171124</dtstart>
+<dtend value="DATE">20171127</dtend>
+<location>La Rochelle, France</location>
+<sequence>0</sequence>
+<summary>Salon du Chocolat, The, Cafe et Saveurs du Monde 2017</summary>
+<url uri="https://coffeebi.com/event/salon-du-chocolat-cafe-et-saveurs-du-monde-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14367@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171126</dtstart>
+<dtend value="DATE">20171201</dtend>
+<location>Côte d'Ivoire</location>
+<sequence>0</sequence>
+<summary>IACO 2017 ANNUAL MEETINGS</summary>
+<url uri="https://coffeebi.com/event/iaco-2017-annual-meetings/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13392@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Khema Bachoo; 00420246093255; Khema@intlbc.com; http://www.horecacee.com/</contact>
+<description>Leaders in HORECA Summit is the only event in region that brings together key influencers in the food serving market. From owners and operators to investors and regulators, from C-level F&amp;B professionals to Michelin star chefs, from leading suppliers to the most senior industry decision makers &amp; trends setters, the summit PROVIDE the unique platform to explore region specific market insights, emerging trends, revolutionary concepts, successful business strategies and array of business opportunities. Join the movers and shakers of the industry to share ideas, bring innovation and explore best practices from around the globe through the series of highly efficient networking events, most knowledge packed agenda, controversial debates, exclusive product showcase and product tasting as well as pre-arranged business meetings. Be Ahead of the Game, Join Leaders in HORECA Summit.</description>
+<dtstart value="DATE">20171128</dtstart>
+<dtend value="DATE">20171130</dtend>
+<sequence>0</sequence>
+<summary>LEADERS IN HORECA CEE &amp; CIS</summary>
+<url uri="https://coffeebi.com/event/leaders-horeca-cee-cis/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/HORECA-2017-logo-150x150.png;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/HORECA-2017-logo-288x300.png;288;300;1,large;https://coffeebi.com/wp-content/uploads/2016/10/HORECA-2017-logo-983x1024.png;840;875;1,full;https://coffeebi.com/wp-content/uploads/2016/10/HORECA-2017-logo-e1499334280473.png;200;208;</x-wp-images-url>
+<x-tags language="en-GB">Exhibitions,LEADERS IN HORECA CEE &amp;amp; CIS</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-14342@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171202</dtstart>
+<dtend value="DATE">20171204</dtend>
+<location>New York, Usa</location>
+<sequence>0</sequence>
+<summary>Coffee and Tea Festival</summary>
+<url uri="https://coffeebi.com/event/coffee-tea-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11395@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20171203</dtstart>
+<dtend value="DATE">20171207</dtend>
+<location>Riyadh, Saudi Arabia</location>
+<sequence>0</sequence>
+<summary>International Coffee &amp; Chocolate Exhibition 2017</summary>
+<url uri="https://coffeebi.com/event/international-coffee-chocolate-exhibition-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14390@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180106</dtstart>
+<dtend value="DATE">20180107</dtend>
+<sequence>0</sequence>
+<summary>San Antonio Coffee Festival 2018</summary>
+<url uri="https://coffeebi.com/event/san-antonio-coffee-festival-2018/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14356@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180112</dtstart>
+<dtend value="DATE">20180115</dtend>
+<sequence>0</sequence>
+<summary>Vienna Coffee Festival</summary>
+<url uri="https://coffeebi.com/event/vienna-coffee-festival/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-2873@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>CEMS Conference &amp; Exhibition (Malaysia) Sdn Bhd;  603 6211 2438; cm@cems.com.my; http://www.cafe-malaysia.com/</contact>
+<description>Café Malaysia returns for its 4th edition in 2018! It is promised to be bigger and better than before. 
+Café Malaysia will continue to be the largest gathering of coffee and tea industry players showcasing their machinery, equipment, accessories as well as related products and services. Explore the growing coffee culture and uncover more of Malaysia’s aesthetic and eclectic appetites at Café Malaysia. Your perfect brew awaits.</description>
+<dtstart value="DATE">20180125</dtstart>
+<dtend value="DATE">20180128</dtend>
+<geo>+03.177174;+101.666751</geo>
+<location>Kuala Lumpur @ MATRADE Exhibition and Convention Centre, Kompleks Kerajaan, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</location>
+<sequence>0</sequence>
+<summary>Cafe Malaysia 2018</summary>
+<url uri="https://coffeebi.com/event/cafe-malaysia-2018/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/07/Web-Banner-788-x-197mm-1.jpg;350;111,medium;https://coffeebi.com/wp-content/uploads/2016/07/Web-Banner-788-x-197mm-1.jpg;350;111,large;https://coffeebi.com/wp-content/uploads/2016/07/Web-Banner-788-x-197mm-1.jpg;350;111,full;https://coffeebi.com/wp-content/uploads/2016/07/Web-Banner-788-x-197mm-1.jpg;350;111</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-14370@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180222</dtstart>
+<dtend value="DATE">20180225</dtend>
+<location>Mexico</location>
+<sequence>0</sequence>
+<summary>Expo Cafe and Groumet</summary>
+<url uri="https://coffeebi.com/event/expo-cafe-groumet/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14360@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180301</dtstart>
+<dtend value="DATE">20180305</dtend>
+<location>Budapest, Hungary</location>
+<sequence>0</sequence>
+<summary>Hungexpo</summary>
+<url uri="https://coffeebi.com/event/hungexpo-2/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-12761@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Coffee &amp; Tea Russian Expo;  7 495 935 87 07; Info@coffeetearusexpo.ru; https://www.coffeetearusexpo.ru/</contact>
+<description>Coffee &amp; Tea Russian Expo is a key industry event for production chain from bean and leaf to cup. It offers exhibition, business practice, educational programs, professional coffee and tea competitions for barista, roasters and tea masters. CTRE can be considered as the largest professional event in Russia and other CIS countries. At one time, in one place Coffee &amp; Tea Russian Expo will bring together more than 5,000 professionals from Russia and other CIS countries and abroad. More than 90 companies will take part in CTRE as exhibitors and partners.</description>
+<dtstart value="DATE">20180315</dtstart>
+<dtend value="DATE">20180318</dtend>
+<location>Moscow, Russia @ Moscow ECC Sokolniki, Hall 2 (5th Luchevoy prosek 5Ас4)</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Tea Russian Expo 2018</summary>
+<url uri="https://coffeebi.com/event/12761/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/RUS-Expo-logo1-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/10/RUS-Expo-logo1-300x275.jpg;300;275;1,large;https://coffeebi.com/wp-content/uploads/2016/10/RUS-Expo-logo1-e1496312930957.jpg;250;229;</x-wp-images-url>
+<x-tags language="en-GB">Coffee &amp;amp; Tea Russian Expo,exhibi,Moscow,Russia</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-11891@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180315</dtstart>
+<dtend value="DATE">20180318</dtend>
+<location>Moscow, Russia</location>
+<sequence>0</sequence>
+<summary>Coffee and tea Rusexpo</summary>
+<url uri="https://coffeebi.com/event/coffee-tea-rusexpo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14394@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180317</dtstart>
+<dtend value="DATE">20180319</dtend>
+<location>Albuquerque, NM, Usa</location>
+<sequence>0</sequence>
+<summary>Southwest Chocolate &amp; Coffee Fest 2018</summary>
+<url uri="https://coffeebi.com/event/southwest-chocolate-coffee-fest-2018/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11396@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180416</dtstart>
+<dtend value="DATE">20180420</dtend>
+<location>Barcelona, Spain</location>
+<sequence>0</sequence>
+<summary>Hostelco 2018</summary>
+<url uri="https://coffeebi.com/event/hostelco-2018/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14364@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180419</dtstart>
+<dtend value="DATE">20180423</dtend>
+<location>Seattle, WA</location>
+<sequence>0</sequence>
+<summary>Coffee Expo</summary>
+<url uri="https://coffeebi.com/event/coffee-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14344@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180503</dtstart>
+<dtend value="DATE">20180506</dtend>
+<location>Ho Chi Minh City, Vietnam</location>
+<sequence>0</sequence>
+<summary>Vietnam Cafe Show</summary>
+<url uri="https://coffeebi.com/event/vietnam-intl-cafe-show/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11731@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180523</dtstart>
+<dtend value="DATE">20180525</dtend>
+<location>Cologne, Germany</location>
+<sequence>0</sequence>
+<summary>Anuga FoodTec 2018</summary>
+<url uri="https://coffeebi.com/event/anuga-foodtec-2018/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14341@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180529</dtstart>
+<dtend value="DATE">20180701</dtend>
+<location>Bangkok</location>
+<sequence>0</sequence>
+<summary>World of Coffee &amp; Tea</summary>
+<url uri="https://coffeebi.com/event/world-coffee-tea/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14343@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180529</dtstart>
+<dtend value="DATE">20180603</dtend>
+<sequence>0</sequence>
+<summary>World of Coffee &amp; Tea Expo</summary>
+<url uri="https://coffeebi.com/event/world-coffee-tea-expo/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14346@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180608</dtstart>
+<dtend value="DATE">20180611</dtend>
+<location>Denver, Usa</location>
+<sequence>0</sequence>
+<summary>Coffee Fest Denver</summary>
+<url uri="https://coffeebi.com/event/coffee-fest-denver/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14170@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact> 55 11 3598-7813; fispalcafe@informa.com ; https://www.fispalcafe.com.br/pt/home.html</contact>
+<description>The Fispal Café, Business Trade Show for the Coffee Sector, receives thousands of professionals from coffee-shops, restaurants, bars, bakeries, pizza parlors, ice-cream parlors, as well as store owners and distributors, searching for novelties in equipment, accessories, utensils, packaging; not forgetting the grain itself.
+The event takes place simultaneously with Fispal Food Service, International Food Service Trade Show, Fispal Sorvetes, International Trade Show for the professional Ice-cream Industries. Together, these trade shows create the ideal synergy for those seeking novelties in the sector and are the gateway to the Latin America foodservice Market.
+Novelties, trends and solutions for the coffee market, such as:  Special grains • Equipments • Acessories • Utensils • Packaging.</description>
+<dtstart value="DATE">20180612</dtstart>
+<dtend value="DATE">20180616</dtend>
+<location>Expo Center Norte, São Paulo, Brazil</location>
+<sequence>0</sequence>
+<summary>Fispal Café 2018</summary>
+<url uri="https://coffeebi.com/event/fispal-cafe-2018/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/10/logo_vertical.png;150;150,medium;https://coffeebi.com/wp-content/uploads/2016/10/logo_vertical.png;150;150,large;https://coffeebi.com/wp-content/uploads/2016/10/logo_vertical.png;150;150,full;https://coffeebi.com/wp-content/uploads/2016/10/logo_vertical.png;150;150</x-wp-images-url>
+<x-tags language="en-GB">Exhibitions,Fispal Café 2018</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-14368@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180713</dtstart>
+<dtend value="DATE">20180717</dtend>
+<location>Taiwan</location>
+<sequence>0</sequence>
+<summary>Taichung International Tea &amp; Coffee Show</summary>
+<url uri="https://coffeebi.com/event/taichung-international-tea-coffee-show/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-14379@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20180905</dtstart>
+<dtend value="DATE">20180909</dtend>
+<location>Riga, Latvia</location>
+<sequence>0</sequence>
+<summary>Riga Food 2018</summary>
+<url uri="https://coffeebi.com/event/riga-food-2018/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-13882@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart value="DATE">20181010</dtstart>
+<dtend value="DATE">20181013</dtend>
+<location>Hamburg, Germany</location>
+<sequence>0</sequence>
+<summary>COTECA</summary>
+<url uri="https://coffeebi.com/event/coteca/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-1262@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>http://www.kintex.com/client/_eng/</contact>
+<description />
+<dtstart tzid="Europe/London">20160331T100000</dtstart>
+<dtend tzid="Europe/London">20160331T170000</dtend>
+<geo>+37.65836;+126.83202</geo>
+<location>Sweet Korea (Dessert and Fancy Food Festival) @ Goyang-si, Gyeonggi-do, South Korea</location>
+<sequence>0</sequence>
+<summary>Sweet Korea</summary>
+<url uri="https://coffeebi.com/event/sweet-korea/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/Kintex-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/Kintex.jpg;170;200;</x-wp-images-url>
+<x-tags language="en-GB">Shanghai</x-tags>
+</vevent>
+<vevent>
+<uid>ai1ec-1285@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories>SPONSORED</categories>
+<contact>Cheryl Carroll Event Director ;  44 (0)20 7288 6621; cheryl.carroll@upperstreetevents.co.uk; http://www.caffecultureshow.com/</contact>
+<description>
+You should exhibit. Here’s why…
+
+
+From coffee to cleaning, roasters to refrigeration and technology to training, the Caffè Culture Show presents a cross-section of the best companies from across the industry supply chain.
+At no other show can your company and products be placed in front of the targeted audience of potential buyers that the Caffè Culture Show delivers. Around 5,000 visitors attend primarily to invest in products and services so don’t miss out on the opportunity to see so many prospective new customers under one roof.
+</description>
+<dtstart tzid="Europe/London">20160510T093000</dtstart>
+<dtend tzid="Europe/London">20160511T170000</dtend>
+<geo>+51.493648;-0.215815</geo>
+<location>Olympia Exhibition Centre @ Hammersmith Rd, London, UK</location>
+<sequence>0</sequence>
+<summary>Caffé Culture 2016</summary>
+<url uri="https://coffeebi.com/event/caffe-culture-2016/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;https://coffeebi.com/wp-content/uploads/2016/04/^383E2F9A9C333EF9999B4574663114D86B81E4FB6F69933DD4^pimgpsh_fullsize_distr-150x150.jpg;150;150;1,medium;https://coffeebi.com/wp-content/uploads/2016/04/^383E2F9A9C333EF9999B4574663114D86B81E4FB6F69933DD4^pimgpsh_fullsize_distr-300x141.jpg;300;141;1,large;https://coffeebi.com/wp-content/uploads/2016/04/^383E2F9A9C333EF9999B4574663114D86B81E4FB6F69933DD4^pimgpsh_fullsize_distr-1024x480.jpg;840;394;1,full;https://coffeebi.com/wp-content/uploads/2016/04/^383E2F9A9C333EF9999B4574663114D86B81E4FB6F69933DD4^pimgpsh_fullsize_distr.jpg;1280;600;</x-wp-images-url>
+<x-tags language="en-GB">Cafeconomy 2016,Caffe Culture Show,Caffè Enterprise,Caffè Fundamentals,Cupping Zone,Exhibitor,Expert advice for every individual,Independents Coffee Roasters' Village,London,Masterclasses,Olympia Exhibition Centre,The Artisan Food Market,Uk</x-tags>
+<x-cost>on the door</x-cost>
+</vevent>
+<vevent>
+<uid>ai1ec-3948@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart tzid="Europe/London">20161021T164600</dtstart>
+<dtend tzid="Europe/London">20161023T174600</dtend>
+<location>Centro de Convenciones Casa Prado, Lima District, Peru</location>
+<sequence>0</sequence>
+<summary>Expo Cafe Peru</summary>
+<url uri="https://coffeebi.com/event/expo-cafe-peru/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-4899@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart tzid="Europe/London">20170128T104900</dtstart>
+<location>Manila, Philippines</location>
+<sequence>0</sequence>
+<summary>Coffee &amp; Mind</summary>
+<url uri="https://coffeebi.com/event/coffee-mind/" />
+<x-cost-type>free</x-cost-type>
+<x-instant-event>1</x-instant-event>
+</vevent>
+<vevent>
+<uid>ai1ec-3943@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact>Primorski sejem d.o.o. ;  386/5/626-02-17; pisarna@gast.si; http://www.gast.si/</contact>
+<description>This year’s fair of tastes GASTexpo even richer and more interesting.
+Selected tastes, new trends in the field of hospitality – hotel equipment, interesting workshops and a wide range of exhibition program will again thread 11. Fairs of tastes GASTexpo.
+At the fair we are expecting you with a rich and high-quality technical program:
+WORKSHOPS and PRESENTATIONS are aimed at both the PROFESSIONAL as well as the GENERAL PUBLIC and lovers.
+Professional workshops in the field of COFFEE, workshops of preparation of ice-cream and confectionary, school of pizza with the best Italian masters, confectionery workshop with the culinary chef Naser Gashi – La Ganache, many various workshop under the baton of HORECA Center and many more!
+We offer you a wide range of championships, from this years 7. International championship of gelato, 5. International championship in making the best pizza of Slovenia, to the very first championship in AEROPRESS and the first championship in making the perfect signature alcohol drink – cocktail, and also we can’t forget the 2. Championship for the best BARISTA!</description>
+<dtstart tzid="Europe/London">20170201T100000</dtstart>
+<dtend tzid="Europe/London">20170204T190000</dtend>
+<geo>+46.061891;+14.508153</geo>
+<location>gospodarsko razstavišče ljubljana @ Dunajska cesta 18, 1000 Ljubljana, Slovenia</location>
+<sequence>0</sequence>
+<summary>GastExpo 2017</summary>
+<url uri="https://coffeebi.com/event/3943/" />
+<x-cost-type>free</x-cost-type>
+<x-wp-images-url>thumbnail;//coffeebi.com/wp-content/uploads/2016/10/GASTEXPO.jpg;300;56,medium;//coffeebi.com/wp-content/uploads/2016/10/GASTEXPO.jpg;300;56,large;//coffeebi.com/wp-content/uploads/2016/10/GASTEXPO.jpg;300;56,full;//coffeebi.com/wp-content/uploads/2016/10/GASTEXPO.jpg;300;56</x-wp-images-url>
+</vevent>
+<vevent>
+<uid>ai1ec-5546@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart tzid="Europe/London">20170323T112600</dtstart>
+<dtend tzid="Europe/London">20170325T122600</dtend>
+<location>Austin, Texas</location>
+<sequence>0</sequence>
+<summary>The NCA Annual Convention 2017</summary>
+<url uri="https://coffeebi.com/event/nca-annual-convention-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+<vevent>
+<uid>ai1ec-11729@coffeebi.com</uid>
+<dtstamp>20170910T161611Z</dtstamp>
+<categories></categories>
+<contact></contact>
+<description></description>
+<dtstart tzid="Europe/London">20171123T110200</dtstart>
+<dtend tzid="Europe/London">20171124T120200</dtend>
+<location>Rome, Italy</location>
+<sequence>0</sequence>
+<summary>EVEX – The European Vending Experience 2017</summary>
+<url uri="https://coffeebi.com/event/evex-european-vending-experience-2017/" />
+<x-cost-type>free</x-cost-type>
+</vevent>
+</vcalendar>

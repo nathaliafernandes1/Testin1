@@ -1,20 +1,178 @@
-<table class="table table--striped table--sortable table--focusable">
+<section id="productionReportContent" class="section section--white section--white--border">
+    <section id="production-table">
+  <div class="wrapper wrapper--big margin-bottom">
+    <h2>
+      By Green Inventory,
+      <span class="text--smaller">
+        from
+        September 9, 2017
+        to
+        September 15, 2017
+      </span>
+    </h2>
+
+    <div class="padding-bottom only-print"></div>
+
+    <div id="ember1387" class="margin-top-negative table-production-per-profile ember-view"><div id="ember1388" class="ember-view"><div class="models-table-wrapper models-table-wrapper">
+  <div class="">
+<!---->      <div class="float-right position-relative">
+<div id="ember1405" class="dropdown-menu__content position-relative ember-view"><button type="button" class="button--dropdown button--light button--dropdown
+    ">
+<!---->
+  <span>
+    Customize
+  </span>
+</button>
+
+<div id="ember1406" class="dropdown-menu--medium dropdown-menu ember-view">  
+    <div class="columns-dropdown__set-buttons">
+
+      <div class="text--strong text--small">
+        Display sets:
+      </div>
+
+        <button class="button button--light button--small" data-ember-action="" data-ember-action-1407="1407">
+          Show All
+        </button>
+
+<!---->
+<!---->
+        <button class="button button--light button--small" data-ember-action="" data-ember-action-1409="1409">
+          Hide All
+        </button>
+        <button class="button button--light button--small" data-ember-action="" data-ember-action-1411="1411">
+          Restore Defaults
+        </button>
+
+    </div>
+
+      <div class="dropdown-menu__divider"></div>
+
+    <div class="dropdown-menu__columns">
+<!----><!---->          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotName" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotName" class="full-width">
+              Name
+            </label>
+          </div>
+<!---->          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-" class="full-width">
+              Amount (Bars)
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-BatchCount" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-BatchCount" class="full-width">
+              Batches
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-Profiles" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-Profiles" class="full-width">
+              Profiles
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotProjectName" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotProjectName" class="full-width">
+              Project
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotGrade" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotGrade" class="full-width">
+              Grade
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-WeightTendency" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-WeightTendency" class="full-width">
+              Tendency to previous period
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotLocationName" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotLocationName" class="full-width">
+              Location
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-AverageWeight" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-AverageWeight" class="full-width">
+              Amount P/W
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-AverageTransactionCount" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-AverageTransactionCount" class="full-width">
+              Batches P/W
+            </label>
+          </div>
+<!---->          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotActualWeight" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotActualWeight" class="full-width">
+              Current Inventory
+            </label>
+          </div>
+          <div class="dropdown-menu__item">
+            <input type="checkbox" value="" id="ember1388-show-col-LotActualWeightBaseAmount" class="input--checkbox--small input--checkbox ember-view">
+
+            <label for="ember1388-show-col-LotActualWeightBaseAmount" class="full-width">
+              Current Inventory (kg)
+            </label>
+          </div>
+    </div>
+
+
+</div></div></div>
+
+  <div class="table__page-sizes">
+  <span>
+    Show:
+  </span>
+
+    <span class="table__page-sizes__item " data-ember-action="" data-ember-action-1412="1412">10</span>
+    <span class="table__page-sizes__item table__page-sizes__item--current" data-ember-action="" data-ember-action-1413="1413">25</span>
+    <span class="table__page-sizes__item " data-ember-action="" data-ember-action-1414="1414">50</span>
+    <span class="table__page-sizes__item " data-ember-action="" data-ember-action-1415="1415">100</span>
+    <span class="table__page-sizes__item " data-ember-action="" data-ember-action-1416="1416">200</span>
+</div>
+
+  </div>
+
+  <!-- Div needed by Firefox to reset floating positioning -->
+  <div class="models-table-clear"></div>
+
+  <div class="inner-table-wrapper margin-bottom-medium margin-top-small">
+    <table class="table table--striped table--sortable table--focusable">
       <thead class=" ">
 <!---->        <tr>
         <th class="table__header table-header-no-sorting table__header--toggle">
               
         </th>
-        <th class="table__header " data-ember-action="" data-ember-action-1411="1411">
+        <th class="table__header " data-ember-action="" data-ember-action-1417="1417">
               Lot-ID
               <!---->
 <!---->
         </th>
-        <th class="table__header " data-ember-action="" data-ember-action-1412="1412">
+        <th class="table__header " data-ember-action="" data-ember-action-1418="1418">
               Name
               <!---->
 <!---->
         </th>
-        <th class="table__header no-wrap align-right" data-ember-action="" data-ember-action-1413="1413">
+        <th class="table__header no-wrap align-right" data-ember-action="" data-ember-action-1419="1419">
               Amount Green
               <!---->
     <svg role="img" class="svg icon icon--small" viewBox="0 0 20 20"><use xlink:href="#sort_desc"></use></svg>
@@ -23,27 +181,27 @@
         <th class="table__header table-header-no-sorting no-wrap text--hidden">
               Amount (Bars)
         </th>
-<!----><!---->        <th class="table__header " data-ember-action="" data-ember-action-1414="1414">
+<!----><!---->        <th class="table__header " data-ember-action="" data-ember-action-1420="1420">
               Project
               <!---->
 <!---->
         </th>
-<!---->        <th class="table__header " data-ember-action="" data-ember-action-1415="1415">
+<!---->        <th class="table__header " data-ember-action="" data-ember-action-1421="1421">
               Tendency to previous period
               <!---->
 <!---->
         </th>
-        <th class="table__header " data-ember-action="" data-ember-action-1416="1416">
+        <th class="table__header " data-ember-action="" data-ember-action-1422="1422">
               Location
               <!---->
 <!---->
         </th>
-        <th class="table__header align-right" data-ember-action="" data-ember-action-1417="1417">
+        <th class="table__header align-right" data-ember-action="" data-ember-action-1423="1423">
               Amount P/W
               <!---->
 <!---->
         </th>
-<!----><!---->        <th class="table__header align-right" data-ember-action="" data-ember-action-1418="1418">
+<!----><!---->        <th class="table__header align-right" data-ember-action="" data-ember-action-1424="1424">
               Current Inventory
               <!---->
 <!---->
@@ -54,9 +212,9 @@
           table__header--toggle
           table-header-no-filtering table__header--filter
           ">
-          <input type="checkbox" value="" id="ember1382-toggle-all" class="input--checkbox--small input--checkbox ember-view">
+          <input type="checkbox" value="" id="ember1388-toggle-all" class="input--checkbox--small input--checkbox ember-view">
 
-<label for="ember1382-toggle-all"></label>
+<label for="ember1388-toggle-all"></label>
       </th>
       <th class="table__header
           
@@ -64,7 +222,7 @@
           ">
               <div>
 
-                  <input type="text" placeholder="Filter..." id="ember1444" class="table__header__filter input--small padding-right-medium ember-view">
+                  <input type="text" placeholder="Filter..." id="ember1454" class="table__header__filter input--small padding-right-medium ember-view">
 
 <!---->
                               </div>
@@ -75,7 +233,7 @@
           ">
               <div>
 
-                  <input type="text" placeholder="Filter..." id="ember1445" class="table__header__filter input--small padding-right-medium ember-view">
+                  <input type="text" placeholder="Filter..." id="ember1455" class="table__header__filter input--small padding-right-medium ember-view">
 
 <!---->
                               </div>
@@ -98,12 +256,12 @@
           ">
               <div>
 
-<div id="ember1446" class="ember-view"><div id="ember1447" class="ember-view">
-<div aria-owns="ember-basic-dropdown-content-ember1448" tabindex="-1" data-ebd-id="ember1448-trigger" role="button" id="ember1449" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1448" class="ember-power-select-multiple-options">
-<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1448" aria-controls="ember-power-select-options-ember1448" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
+<div id="ember1456" class="ember-view"><div id="ember1457" class="ember-view">
+<div aria-owns="ember-basic-dropdown-content-ember1458" tabindex="-1" data-ebd-id="ember1458-trigger" role="button" id="ember1459" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1458" class="ember-power-select-multiple-options">
+<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1458" aria-controls="ember-power-select-options-ember1458" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
 </ul>
 <span class="ember-power-select-status-icon"></span></div>
-  <div id="ember-basic-dropdown-content-ember1448" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+  <div id="ember-basic-dropdown-content-ember1458" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
 
 </div></div>
               </div>
@@ -120,12 +278,12 @@
           ">
               <div>
 
-<div id="ember1452" class="ember-view"><div id="ember1453" class="ember-view">
-<div aria-owns="ember-basic-dropdown-content-ember1454" tabindex="-1" data-ebd-id="ember1454-trigger" role="button" id="ember1455" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1454" class="ember-power-select-multiple-options">
-<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1454" aria-controls="ember-power-select-options-ember1454" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
+<div id="ember1462" class="ember-view"><div id="ember1463" class="ember-view">
+<div aria-owns="ember-basic-dropdown-content-ember1464" tabindex="-1" data-ebd-id="ember1464-trigger" role="button" id="ember1465" class="ember-power-select-trigger ember-power-select-multiple-trigger table__header__filter input--small ember-basic-dropdown-trigger ember-view"><ul id="ember-power-select-multiple-options-ember1464" class="ember-power-select-multiple-options">
+<!---->    <input type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="ember-power-select-trigger-multiple-input-ember1464" aria-controls="ember-power-select-options-ember1464" style="width: 100%;" placeholder="Filter..." class="ember-power-select-trigger-multiple-input">
 </ul>
 <span class="ember-power-select-status-icon"></span></div>
-  <div id="ember-basic-dropdown-content-ember1454" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
+  <div id="ember-basic-dropdown-content-ember1464" style="display: none;" class="ember-basic-dropdown-content-placeholder"></div>
 
 </div></div>
               </div>
@@ -145,15 +303,15 @@
 <!----></tr>
       </thead>
       <tbody>
-              <tr data-ember-action="" data-ember-action-1459="1459">
+              <tr data-ember-action="" data-ember-action-1469="1469">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-9402b44b-9411-43f8-82c3-340188f1c027" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-9402b44b-9411-43f8-82c3-340188f1c027"></label>
+  <input type="checkbox" value="" id="toggle-1204bb84-91a6-4856-9d90-a0a82d7ddce4" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-1204bb84-91a6-4856-9d90-a0a82d7ddce4"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/yvk7vM" id="ember1462" class="ember-view">  PG-0377
+            <a href="/apps/lots/yvk7vM" id="ember1472" class="ember-view">  PG-0377
 </a>
       </td>
       <td>
@@ -170,9 +328,9 @@
               Opus
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-40%</span>
+              <span class="tendency tendency--equal">0%</span>
   from
-  240 kg
+  144 kg
 
       </td>
       <td>
@@ -183,19 +341,19 @@
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            102.01 x 59kg Bag
+            101.2 x 59kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1464="1464">
+              <tr data-ember-action="" data-ember-action-1474="1474">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-df136d6e-ba09-4bc8-95fb-ddf05938c47d" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-df136d6e-ba09-4bc8-95fb-ddf05938c47d"></label>
+  <input type="checkbox" value="" id="toggle-188260c1-f5d2-4e43-accf-21fe9319ce47" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-188260c1-f5d2-4e43-accf-21fe9319ce47"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/dv2Vpv" id="ember1465" class="ember-view">  PG-0367
+            <a href="/apps/lots/dv2Vpv" id="ember1475" class="ember-view">  PG-0367
 </a>
       </td>
       <td>
@@ -212,9 +370,9 @@
               Opus
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-40%</span>
+              <span class="tendency tendency--decreasing">-25%</span>
   from
-  120 kg
+  96 kg
 
       </td>
       <td>
@@ -225,19 +383,61 @@
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            35.44 x 59kg Bag
+            35.03 x 59kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1467="1467">
+              <tr data-ember-action="" data-ember-action-1477="1477">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-06775240-768b-4611-908e-de1b3778b5ca" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-06775240-768b-4611-908e-de1b3778b5ca"></label>
+  <input type="checkbox" value="" id="toggle-228bc2f5-62a4-4aad-8b09-15f4738743d6" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-228bc2f5-62a4-4aad-8b09-15f4738743d6"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/06OZyA" id="ember1468" class="ember-view">  PG-0341
+            <a href="/apps/lots/WnYAmG" id="ember1478" class="ember-view">  PG-0379
+</a>
+      </td>
+      <td>
+              Brazil - San Coffee Yellow Bourbon PN - 2016
+      </td>
+      <td class="no-wrap align-right">
+              72 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(50% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Lantana
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--increasing">+50%</span>
+  from
+  48 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              63 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            2.57 x 59kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1480="1480">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-ec0b5ccd-a374-4a1a-9241-6d4dd46ee6fd" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-ec0b5ccd-a374-4a1a-9241-6d4dd46ee6fd"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/06OZyA" id="ember1481" class="ember-view">  PG-0341
 </a>
       </td>
       <td>
@@ -254,9 +454,9 @@
               Opus
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-40%</span>
+              <span class="tendency tendency--decreasing">-25%</span>
   from
-  120 kg
+  96 kg
 
       </td>
       <td>
@@ -267,65 +467,23 @@
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            2.2 x 70kg Bag
+            5.86 x 70kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1470="1470">
+              <tr data-ember-action="" data-ember-action-1483="1483">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-532ed7bf-dd0e-4819-9da4-ea83db9d4502" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-532ed7bf-dd0e-4819-9da4-ea83db9d4502"></label>
+  <input type="checkbox" value="" id="toggle-77ba1b90-2c2a-4937-8829-63ff86d0ee2f" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-77ba1b90-2c2a-4937-8829-63ff86d0ee2f"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/Zlq7OV" id="ember1471" class="ember-view">  PG-0397
+            <a href="/apps/lots/6MowkG" id="ember1484" class="ember-view">  PG-0374
 </a>
       </td>
       <td>
-              El Salvador - La Avila Washed - 2017
-      </td>
-      <td class="no-wrap align-right">
-              72 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(50% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!---->      <td>
-              Single Origin Espresso
-      </td>
-<!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--increasing">+200%</span>
-  from
-  24 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              63 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            3.61 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1473="1473">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-f841eb31-5762-4d1d-88ff-e96031ae4c68" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-f841eb31-5762-4d1d-88ff-e96031ae4c68"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="/apps/lots/WnYAmG" id="ember1474" class="ember-view">  PG-0379
-</a>
-      </td>
-      <td>
-              Brazil - San Coffee Yellow Bourbon PN - 2016
+              Peru - Cajamarca Nuevo Trujillo - Marcial Olivera
       </td>
       <td class="no-wrap align-right">
               48 kg
@@ -338,9 +496,9 @@
               Lantana
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
+              <span class="tendency tendency--increasing">+100%</span>
   from
-  96 kg
+  24 kg
 
       </td>
       <td>
@@ -351,19 +509,61 @@
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            2.98 x 59kg Bag
+            1.72 x 69kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1476="1476">
+              <tr data-ember-action="" data-ember-action-1486="1486">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-cfab98ef-4521-448a-bf1c-0fa733ffcbe8" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-cfab98ef-4521-448a-bf1c-0fa733ffcbe8"></label>
+  <input type="checkbox" value="" id="toggle-8bec0933-e355-4f7c-a57c-b5ef4bb334df" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-8bec0933-e355-4f7c-a57c-b5ef4bb334df"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/XmJMYg" id="ember1477" class="ember-view">  PG-0387
+            <a href="/apps/lots/wX1A3x" id="ember1487" class="ember-view">  PG-0342
+</a>
+      </td>
+      <td>
+              Colombia - Los Guacharos A - 2017
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(33.333333333333336% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Lantana
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--increasing">+100%</span>
+  from
+  24 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            1.39 x 70kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1489="1489">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-1eed726d-581a-4cdb-b59b-89b562e26fb1" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-1eed726d-581a-4cdb-b59b-89b562e26fb1"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/XmJMYg" id="ember1490" class="ember-view">  PG-0387
 </a>
       </td>
       <td>
@@ -397,15 +597,57 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1479="1479">
+              <tr data-ember-action="" data-ember-action-1492="1492">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-e58f2a86-9cc0-4510-a598-20c8abaa446e" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-e58f2a86-9cc0-4510-a598-20c8abaa446e"></label>
+  <input type="checkbox" value="" id="toggle-3bc738e0-bf35-436d-bbf6-ae7fc4a4a33b" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-3bc738e0-bf35-436d-bbf6-ae7fc4a4a33b"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/YB7OAv" id="ember1480" class="ember-view">  PG-0391
+            <a href="/apps/lots/Zlq7OV" id="ember1493" class="ember-view">  PG-0397
+</a>
+      </td>
+      <td>
+              El Salvador - La Avila Washed - 2017
+      </td>
+      <td class="no-wrap align-right">
+              48 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(33.333333333333336% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Single Origin Espresso
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--equal">0%</span>
+  from
+  48 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              42 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            3.61 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1495="1495">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-133457fc-100d-4020-a04e-b0d434822e1b" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-133457fc-100d-4020-a04e-b0d434822e1b"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/YB7OAv" id="ember1496" class="ember-view">  PG-0391
 </a>
       </td>
       <td>
@@ -439,15 +681,15 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1482="1482">
+              <tr data-ember-action="" data-ember-action-1498="1498">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-f62a911a-c6df-483a-bf10-870c2211abf7" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-f62a911a-c6df-483a-bf10-870c2211abf7"></label>
+  <input type="checkbox" value="" id="toggle-bd7226eb-294e-4bc4-921e-cdf0ae92c2eb" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-bd7226eb-294e-4bc4-921e-cdf0ae92c2eb"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/6MBegE" id="ember1483" class="ember-view">  PG-0366
+            <a href="/apps/lots/6MBegE" id="ember1499" class="ember-view">  PG-0366
 </a>
       </td>
       <td>
@@ -481,15 +723,55 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1485="1485">
+              <tr data-ember-action="" data-ember-action-1501="1501">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-e4e4f941-78a4-4bf1-b202-c71d96dba779" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-e4e4f941-78a4-4bf1-b202-c71d96dba779"></label>
+  <input type="checkbox" value="" id="toggle-dbc45140-bbdd-4625-afc0-f7806e9d90dc" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-dbc45140-bbdd-4625-afc0-f7806e9d90dc"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/QN3LxL" id="ember1486" class="ember-view">  PG-0343
+            <a href="/apps/lots/ApZOPP" id="ember1502" class="ember-view">  PG-0358
+</a>
+      </td>
+      <td>
+              TEST 
+      </td>
+      <td class="no-wrap align-right">
+              24 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(16.666666666666668% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              TESTING
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              
+      </td>
+      <td class="no-wrap align-right">
+              21 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            120 kg
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1504="1504">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-2c3e6573-8740-4c71-b56d-7d29af94e533" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-2c3e6573-8740-4c71-b56d-7d29af94e533"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/QN3LxL" id="ember1505" class="ember-view">  PG-0343
 </a>
       </td>
       <td>
@@ -523,15 +805,15 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1488="1488">
+              <tr data-ember-action="" data-ember-action-1507="1507">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-a51b198c-d49c-49cb-a1a5-113394eb8f74" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-a51b198c-d49c-49cb-a1a5-113394eb8f74"></label>
+  <input type="checkbox" value="" id="toggle-ee850e55-1826-428f-963d-473eaeef7f88" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-ee850e55-1826-428f-963d-473eaeef7f88"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/GVz3Qw" id="ember1489" class="ember-view">  PG-0376
+            <a href="/apps/lots/GVz3Qw" id="ember1508" class="ember-view">  PG-0376
 </a>
       </td>
       <td>
@@ -565,99 +847,15 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1491="1491">
+              <tr data-ember-action="" data-ember-action-1510="1510">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-5e11970c-897b-4536-93d5-535698e56f69" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-5e11970c-897b-4536-93d5-535698e56f69"></label>
+  <input type="checkbox" value="" id="toggle-4b65e291-b250-4074-ad0d-89a8428db884" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-4b65e291-b250-4074-ad0d-89a8428db884"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/6MowkG" id="ember1492" class="ember-view">  PG-0374
-</a>
-      </td>
-      <td>
-              Peru - Cajamarca Nuevo Trujillo - Marcial Olivera
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(16.666666666666668% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!---->      <td>
-              Lantana
-      </td>
-<!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
-  from
-  48 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.07 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1494="1494">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-21e49727-5f07-4cdd-afe7-6a98f941b90e" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-21e49727-5f07-4cdd-afe7-6a98f941b90e"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="/apps/lots/wX1A3x" id="ember1495" class="ember-view">  PG-0342
-</a>
-      </td>
-      <td>
-              Colombia - Los Guacharos A - 2017
-      </td>
-      <td class="no-wrap align-right">
-              24 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(16.666666666666668% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!---->      <td>
-              Lantana
-      </td>
-<!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
-  from
-  48 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              21 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            1.73 x 70kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1497="1497">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-c16527c5-90d4-4cd5-9a55-55772af4a0e1" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-c16527c5-90d4-4cd5-9a55-55772af4a0e1"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="/apps/lots/1Nbp8l" id="ember1498" class="ember-view">  PG-0386
+            <a href="/apps/lots/1Nbp8l" id="ember1511" class="ember-view">  PG-0386
 </a>
       </td>
       <td>
@@ -687,103 +885,59 @@
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            -19.52 kg
+            1.72 x 70kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1500="1500">
+              <tr data-ember-action="" data-ember-action-1513="1513">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-f8bf4775-bf06-4990-862b-67fc9baa9f6d" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-f8bf4775-bf06-4990-862b-67fc9baa9f6d"></label>
+  <input type="checkbox" value="" id="toggle-49e56e9e-a6d8-4e24-b6f1-767325f28b64" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-49e56e9e-a6d8-4e24-b6f1-767325f28b64"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/ndwEgj" id="ember1501" class="ember-view">  PG-0393
-</a>
-      </td>
-      <td>
-              Guatemala - San Sebastian - Yellow Caturra Washed - 2017
-      </td>
-      <td class="no-wrap align-right">
-              18 kg
-
-      </td>
-      <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(12.5% - 8px);" class="percentage-bar"></div>
-      </td>
-<!----><!---->      <td>
-              Filter Coffee
-      </td>
-<!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--increasing">+100%</span>
-  from
-  9 kg
-
-      </td>
-      <td>
-              Roastery
-      </td>
-      <td class="no-wrap align-right">
-              15.75 kg
-
-      </td>
-<!----><!---->      <td class="no-wrap align-right">
-            2.35 x 69kg Bag
-      </td>
-<!----></tr>
-<!---->
-              <tr data-ember-action="" data-ember-action-1503="1503">
-      <td class="">
-            <div class="align-center">
-  <input type="checkbox" value="" id="toggle-e1af0f54-aafb-442d-8b2c-ae7fe4570653" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-e1af0f54-aafb-442d-8b2c-ae7fe4570653"></label>
-</div>
-      </td>
-      <td class="no-wrap">
-            <a href="/apps/lots/vWrYQA" id="ember1504" class="ember-view">  PG-0389
+            <a href="/apps/lots/wXmE33" id="ember1514" class="ember-view">  PG-0406
 </a>
       </td>
       <td>
               Kenya - Gatamboya AA - Barichu F.C.S
       </td>
       <td class="no-wrap align-right">
-              9 kg
+              24 kg
 
       </td>
       <td class="position-relative width-medium">
-            <div style="left: 4px; width: calc(6.25% - 8px);" class="percentage-bar"></div>
+            <div style="left: 4px; width: calc(16.666666666666668% - 8px);" class="percentage-bar"></div>
       </td>
 <!----><!---->      <td>
               Filter Coffee
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-66.67%</span>
-  from
-  27 kg
+              -
 
       </td>
       <td>
               Roastery
       </td>
       <td class="no-wrap align-right">
-              7.88 kg
+              21 kg
 
       </td>
 <!----><!---->      <td class="no-wrap align-right">
-            0.9 x 60kg Bag
+            0.2 x 60kg Bag
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1506="1506">
+              <tr data-ember-action="" data-ember-action-1516="1516">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-f1fb3db9-56d6-41f5-9ab5-ee0c239c4c3f" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-f1fb3db9-56d6-41f5-9ab5-ee0c239c4c3f"></label>
+  <input type="checkbox" value="" id="toggle-e58fc74e-99cd-410e-916f-f2157b0b27fe" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-e58fc74e-99cd-410e-916f-f2157b0b27fe"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/Bea22N" id="ember1507" class="ember-view">  PG-0401
+            <a href="/apps/lots/Bea22N" id="ember1517" class="ember-view">  PG-0401
 </a>
       </td>
       <td>
@@ -800,9 +954,7 @@
               Filter Pack
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-62.5%</span>
-  from
-  24 kg
+              -
 
       </td>
       <td>
@@ -817,15 +969,15 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1509="1509">
+              <tr data-ember-action="" data-ember-action-1519="1519">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-fd7734c8-7b06-453e-ace7-2bff46f2258c" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-fd7734c8-7b06-453e-ace7-2bff46f2258c"></label>
+  <input type="checkbox" value="" id="toggle-49b731a6-9af3-4ff2-9f2a-fb086bb316da" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-49b731a6-9af3-4ff2-9f2a-fb086bb316da"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/wX2yAK" id="ember1510" class="ember-view">  PG-0399
+            <a href="/apps/lots/wX2yAK" id="ember1520" class="ember-view">  PG-0399
 </a>
       </td>
       <td>
@@ -857,15 +1009,15 @@
       </td>
 <!----></tr>
 <!---->
-              <tr data-ember-action="" data-ember-action-1512="1512">
+              <tr data-ember-action="" data-ember-action-1522="1522">
       <td class="">
             <div class="align-center">
-  <input type="checkbox" value="" id="toggle-6ebb63c4-8e15-4bd6-ad9e-44f1c9a43abf" class="input--checkbox--small input--checkbox ember-view">
-  <label for="toggle-6ebb63c4-8e15-4bd6-ad9e-44f1c9a43abf"></label>
+  <input type="checkbox" value="" id="toggle-6b7b8d61-d06c-4ca2-ae9c-49ba98e497fd" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-6b7b8d61-d06c-4ca2-ae9c-49ba98e497fd"></label>
 </div>
       </td>
       <td class="no-wrap">
-            <a href="/apps/lots/OPqDOr" id="ember1513" class="ember-view">  PG-0398
+            <a href="/apps/lots/OPqDOr" id="ember1523" class="ember-view">  PG-0398
 </a>
       </td>
       <td>
@@ -882,9 +1034,9 @@
               Filter Coffee
       </td>
 <!---->      <td class="no-wrap text--light">
-              <span class="tendency tendency--decreasing">-50%</span>
+              <span class="tendency tendency--equal">0%</span>
   from
-  18 kg
+  9 kg
 
       </td>
       <td>
@@ -896,6 +1048,88 @@
       </td>
 <!----><!---->      <td class="no-wrap align-right">
             162 kg
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1525="1525">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-c64d2f1c-cad9-45e5-891e-16463d046746" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-c64d2f1c-cad9-45e5-891e-16463d046746"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/kqYVOL" id="ember1526" class="ember-view">  PG-0408
+</a>
+      </td>
+      <td>
+              Peru - San Jose Lourdes - Apolinar Arevalo
+      </td>
+      <td class="no-wrap align-right">
+              9 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(6.25% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Coffee
+      </td>
+<!---->      <td class="no-wrap text--light">
+              -
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              7.88 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            1.87 x 69kg Bag
+      </td>
+<!----></tr>
+<!---->
+              <tr data-ember-action="" data-ember-action-1528="1528">
+      <td class="">
+            <div class="align-center">
+  <input type="checkbox" value="" id="toggle-ea6a1397-ba30-4fc1-94a4-a09966dabade" class="input--checkbox--small input--checkbox ember-view">
+  <label for="toggle-ea6a1397-ba30-4fc1-94a4-a09966dabade"></label>
+</div>
+      </td>
+      <td class="no-wrap">
+            <a href="/apps/lots/vWrYQA" id="ember1529" class="ember-view">  PG-0389
+</a>
+      </td>
+      <td>
+              Kenya - Gatamboya AA - Barichu F.C.S
+      </td>
+      <td class="no-wrap align-right">
+              7 kg
+
+      </td>
+      <td class="position-relative width-medium">
+            <div style="left: 4px; width: calc(4.861111111111111% - 8px);" class="percentage-bar"></div>
+      </td>
+<!----><!---->      <td>
+              Filter Coffee
+      </td>
+<!---->      <td class="no-wrap text--light">
+              <span class="tendency tendency--decreasing">-61.11%</span>
+  from
+  18 kg
+
+      </td>
+      <td>
+              Roastery
+      </td>
+      <td class="no-wrap align-right">
+              6.13 kg
+
+      </td>
+<!----><!---->      <td class="no-wrap align-right">
+            0.78 x 60kg Bag
       </td>
 <!----></tr>
 <!---->
@@ -935,7 +1169,7 @@
       <td class="table__cell--footer align-right">
 
 <!---->
-            691.2 kg
+            776.2 kg
 
 <!---->
 <!---->
@@ -991,7 +1225,7 @@
 
 <!---->
 <!---->
-            10,425.92 kg
+            10,750.17 kg
 
 <!---->
 <!---->
@@ -1000,3 +1234,95 @@
 <!----></tr>
       </tfoot>
     </table>
+  </div>
+    <div class="table__footer layout__cols__container">
+  <div class="layout__col--2 align-middle table-summary">
+    Show 1 - 20 of 20
+
+    <a href="#" class="btn btn-link clearFilters invisible" data-ember-action="" data-ember-action-1530="1530">
+      <span class="glyphicon glyphicon-remove-circle"></span>
+    </a>
+  </div>
+
+<!----></div>
+</div>
+
+</div>
+
+<!----></div>
+  </div>
+</section>
+
+<div class="print-page-break-avoid">
+  <section id="production-over-time-section">
+    <div class="wrapper wrapper--big">
+      <h2>
+        Production over time
+      </h2>
+    </div>
+  </section>
+
+    <div id="ember1535" class="production-over-time-per-profile production-over-time production-over-time-per-lot production-over-time ember-view"><div class="wrapper wrapper--big">
+  <div class="layout__sidebar--right">
+    <div class="box">
+      <h4 class="box__header">
+        Display
+      </h4>
+
+      <div class="margin-bottom-small">
+        <label for="chart-group-by">
+          Group by:
+        </label>
+
+<select id="chart-group-by" class="ember-view">          <option value="DAY">
+            Days
+          </option>
+          <option value="WEEK" disabled="">
+            Weeks
+          </option>
+          <option value="MONTH" disabled="">
+            Months
+          </option>
+
+</select>      </div>
+
+      <div class="">
+        <input type="checkbox" value="" disabled="" id="chart-accumulate" class="input--checkbox ember-view">
+        <label for="chart-accumulate">
+            Sum up lots
+
+        </label>
+
+          <div class="text--light text--small">
+              You can only show the chart per lot if you select at most 7 lots.
+          </div>
+      </div>
+
+      <div class="margin-bottom-xsmall">
+        <input type="checkbox" value="" id="chart-compare-to-previous" class="input--checkbox ember-view">
+        <label for="chart-compare-to-previous">
+          Compare to previous
+        </label>
+      </div>
+
+<!---->
+    </div>
+  </div>
+
+  <div class="layout__sidebar__main">
+
+      <div class="align-center padding">
+        <p>
+          You can view the production over time here. Generating this graph may take a few seconds.
+        </p>
+        <button class="button--primary" data-ember-action="" data-ember-action-1536="1536">
+          Generate Graph
+        </button>
+      </div>
+  </div>
+</div>
+
+<div class="wrapper wrapper--big margin-top">
+<!----></div></div>
+</div>
+  </section>
